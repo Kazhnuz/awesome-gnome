@@ -1,13 +1,45 @@
-# awesome-gnome
-Just a try to create an awesome-inspired curated list of applications, extensions, tools for the GNOME Desktop Environnement and GNOME Shell. Even if this list is maintained for user, there is a special developpers section, in order to make hacking on GNOME easier too :) This list is an old project of might that I have cleaned up and published for TheOriginalFannibal's [posts on Reddit](https://www.reddit.com/r/gnome/comments/6h72os/any_listing_of_gnome_apps_that_follow_hig_and/). That's means that this list might be replaced by his own list (I don't aim to compete with anybody), deplaced from my repository to a Github organisation in order to make it simpler to access to everybody, relicenced, etc. If something like that happen, this whole README will be replaced with a link to the project to follow :) All that also mean that this list is highly incomplete.
+# Awesome GNOME (proposal)
 
-**[TODO]** : 
+> A (proposal for a) curated list of awesome applications, extensions and developpement tools for the GNOME Desktop Environneemnt and the GNOME Shell
+
+**Notice** : This list is an old project of might that I have cleaned up and published for TheOriginalFannibal's [posts on Reddit](https://www.reddit.com/r/gnome/comments/6h72os/any_listing_of_gnome_apps_that_follow_hig_and/). That's means that this list might be replaced by his own list (I don't aim to compete with anybody), deplaced from my repository to a Github organisation in order to make it simpler to access to everybody, relicenced, etc. If something like that happen, this whole README will be replaced with a link to the project to follow :) 
+
+That also mean that this list is highly incomplete for the moment.
+
+---
+
+**[TODO] :** 
 
 - Create good guidelines on what can be on this list (especially about applications on the git.gnome.org git : should this list just advertise non-core applications as advertising Nautilus for instance would be quite usefull ?)
 
 - How much should those application follow the GNOME HIG ? Is having the global look sufficient (for instance is having non-symbolic icons in the headerbar problematic or not ?)
 
 - Better classification for themes
+
+---
+
+## Table of Content
+
+- [Applications](#applications)
+  - [Tools](#tools)
+  - [Internet](#internet)
+  - [Content Applications](#content-applications)
+- [GTK Modules](#gtk-modules)
+- [Extensions](#extensions)
+  - [Applets](#applets)
+  - [Status Area](#status-area)
+  - [Dock and Panels](#dock-and-panels)
+- [Themes](#themes)
+  - [Adwaita-based](#adwaita-based)
+  - [Material and Flat](#material-and-flat)
+  - [Metallic](#metallic)
+- [Developpers Tools](#developpers-tools)
+  - [IDE](#ide)
+  - [Libraries](#libraries)
+  - [Exemples](#exemples)
+  - [Documentations](#documentations)
+  
+---
 
 ## Applications
 
@@ -37,13 +69,17 @@ Just a try to create an awesome-inspired curated list of applications, extension
 - [GRadio](https://github.com/haecker-felix/gradio/) is a client for web-based radio in GNOME
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) is a powerfull and advanced application to manage your photos and image in GNOME
 
-## GTK modules and systems
+---
+
+## GTK modules
 
 - [Plotinus](https://github.com/p-e-w/plotinus) is a command palette for GTK3 Applications
 
+---
+
 ## Extensions
 
-### Applets and menus
+### Applets
 
 - [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) is a applet that let you desactivate the GNOME lockscreen.
 - [Removalbe Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) is a status menu to show your removable drives
@@ -68,7 +104,7 @@ Just a try to create an awesome-inspired curated list of applications, extension
 - [Minwaita](https://github.com/godlyranchdressing/Minwaita) is a more compact fork of Adwaita
 - [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) is another compact version of Adwaita, more faithfull than minwaita but less compact
 
-### Material and Flat themes
+### Material and Flat
 
 - [Arc](https://github.com/horst3180/Arc-theme) is a flat theme with transparent elements
 - [Flat-Plat](https://github.com/nana-4/Flat-Plat) is a Material Design-like theme for GNOME/GTK+ based desktop environments.
@@ -87,7 +123,7 @@ Just a try to create an awesome-inspired curated list of applications, extension
 
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) is the official IDE for creating GNOME applications
 
-### Library and utility
+### Librairies
 
 - [libdazzle](https://git.gnome.org/browse/libdazzle) is a companion library to GObject and Gtk+. It provides various features that the creator wish were in the underlying library but cannot for various reasons.
 
@@ -95,7 +131,7 @@ Just a try to create an awesome-inspired curated list of applications, extension
 
 - [Hello](https://github.com/chergert/hello) is a set of Hello World exemple for GNOME in different languages
 
-### Documentation
+### Documentations
 
 - [GNOME newcomers page](https://wiki.gnome.org/Newcomers/)
 - [Official GNOME Documentation](https://developer.gnome.org/)
