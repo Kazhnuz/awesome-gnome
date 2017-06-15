@@ -21,6 +21,8 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
   - [Libraries and Utility](#libraries-and-utility)
   - [Examples](#examples)
   - [Documentation](#documentation)
+  
+---
 
 ## Applications
 
@@ -53,6 +55,8 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 ## GTK Modules and Systems
 
 - [Plotinus](https://github.com/p-e-w/plotinus) is a command palette for GTK3 Applications
+
+---
 
 ## Extensions
 
@@ -111,7 +115,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 
 - [Hello](https://github.com/chergert/hello) is a set of Hello World exemple for GNOME in different languages
 
-### Documentation
+### Documentations
 
 - [GNOME newcomers page](https://wiki.gnome.org/Newcomers/)
 - [Official GNOME Documentation](https://developer.gnome.org/)
