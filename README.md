@@ -50,7 +50,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) is an appindicator systray for GNOME
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) is a bitbar clone for GNOME
 
-#### Dock and Panels
+#### Docks and Panels
 
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) transform the GNOME's Dash into a fully-featured dock !
 - [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) create a modern dock that fuse workspace's and dock's functionnalities
@@ -76,7 +76,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [Greybird](https://github.com/shimmerproject/Greybird/) is the official Xubuntu theme
 - [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc
 
-### Developpers Tools
+### Developer Tools
 
 #### IDE
 
@@ -86,7 +86,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 
 - [libdazzle](https://git.gnome.org/browse/libdazzle) is a companion library to GObject and Gtk+. It provides various features that the creator wish were in the underlying library but cannot for various reasons.
 
-#### Exemples
+#### Examples
 
 - [Hello](https://github.com/chergert/hello) is a set of Hello World exemple for GNOME in different languages
 
