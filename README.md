@@ -6,6 +6,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
   - [Tools](#tools)
   - [Internet](#internet)
   - [Content Applications](#content-applications)
+  - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
 - [Extensions](#extensions)
   - [Applets and Menus](#applets-and-menus)
@@ -38,6 +39,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [NFO Viewer](https://github.com/otsaloma/nfoview) is a simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support
 - [GTimeLog](https://github.com/gtimelog/gtimelog) is a simple app for keeping track of time
 - [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs
+- [Gnome Pomodoro](http://gnomepomodoro.org/) is a Pomodoro timer
 
 ### Internet
 
