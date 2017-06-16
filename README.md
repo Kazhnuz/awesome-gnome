@@ -1,6 +1,8 @@
 # Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of _awesome_ apps, extensions, modules, extensions, themes and tools for the GNOME Desktop Environment.
+> A curated list of _awesome_ apps, extensions, modules, extensions, themes and tools for the GNOME Desktop Environment.
+
+[GNOME](https://www.gnome.org/) is a Desktop Environnement for Linux and UNIXes, designed to put the user in control and get things done. It use GTK for its application and Clutter and javascript for its official desktop shell.
 
 - [Applications](#applications)
   - [Tools](#tools)
