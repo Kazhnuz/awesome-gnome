@@ -6,6 +6,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
   - [Tools](#tools)
   - [Internet](#internet)
   - [Content Applications](#content-applications)
+  - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
 - [Extensions](#extensions)
   - [Applets and Menus](#applets-and-menus)
@@ -32,7 +33,13 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [Tilix](https://github.com/gnunn1/terminix/) is a tiling terminal emulator for GNOME
 - [systemd Manager](https://github.com/mmstick/systemd-manager) is a tool to control graphically systemd
 - [GColor 3](https://hjdskes.github.io/projects/gcolor3/) is a GTK3 color picker for GNOME
+- [Coulr](https://github.com/Huluti/Coulr) lets you convert between RGB and hexadecimal codes for colours
 - [GPaste](https://github.com/Keruspe/GPaste) is a clipboard manager for GNOME (that is composed of both an applicaiton and an extension)
+- [Peek](https://github.com/phw/peek) is a simple screen recorder that saves your recording as a GIF
+- [NFO Viewer](https://github.com/otsaloma/nfoview) is a simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support
+- [GTimeLog](https://github.com/gtimelog/gtimelog) is a simple app for keeping track of time
+- [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs
+- [Gnome Pomodoro](http://gnomepomodoro.org/) is a Pomodoro timer
 
 ### Internet
 
@@ -44,6 +51,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit)
 - [Ring-GTK](https://ring.cx/) is a Ring GTK/GNOME client
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) is a Twitch GTK/GNOME client
+- [Haguichi](https://www.haguichi.net/) is a graphical frontend for Hamachi on Linux
 
 ### Content Applications
 
@@ -51,6 +59,11 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [Lollypop](https://github.com/gnumdk/lollypop) is a music application for GNOME
 - [GRadio](https://github.com/haecker-felix/gradio/) is a client for web-based radio in GNOME
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) is a powerfull and advanced application to manage your photos and image in GNOME
+
+### Others
+
+- [Luminance](http://craigcabrey.com/luminance/) is a Philips Hue client
+- [razerCommander](https://github.com/GabMus/razerCommander) is a control center for managing Razer peripherals 
 
 ## GTK Modules and Systems
 
