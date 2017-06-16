@@ -48,7 +48,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 - [Geary](https://wiki.gnome.org/Apps/Geary) is a modern mail client for GNOME, created originally by Yorba
 - [FeedReader](https://jangernert.github.io/FeedReader/) is a RSS feeds reader
 - [Corebird](http://corebird.baedert.org/) is a twitter client
-- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit)
+- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) is a Reddit client for GNOME.
 - [Ring-GTK](https://ring.cx/) is a Ring GTK/GNOME client
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) is a Twitch GTK/GNOME client
 - [Haguichi](https://www.haguichi.net/) is a graphical frontend for Hamachi on Linux
@@ -130,7 +130,7 @@ A curated list of _awesome_ apps, extensions, modules, extensions, themes and to
 
 ### Documentations
 
-- [GNOME newcomers page](https://wiki.gnome.org/Newcomers/)
-- [Official GNOME Documentation](https://developer.gnome.org/)
+- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) is the perfect place to start contributing to GNOME
+- [GNOME Developer Center](https://developer.gnome.org/) contain all the official GNOME documentations
 - [Valadoc](https://valadoc.org/), a documentation about Vala
-- [GJS Documentation](http://devdocs.baznga.org/)
+- [GJS Documentation](http://devdocs.baznga.org/) is the documentation for the javascript GTK bindings
