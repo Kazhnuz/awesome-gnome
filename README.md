@@ -1,6 +1,6 @@
-# Awesome Gnome
+# Awesome GNOME
 
-A curated list of _awesome_ apps, extensions, modules, extensions, themes and tools for the Gnome Desktop Environment.
+A curated list of _awesome_ apps, extensions, modules, extensions, themes and tools for the GNOME Desktop Environment.
 
 - [Applications](#applications)
   - [Tools](#tools)
