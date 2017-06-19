@@ -16,7 +16,11 @@ Ensure your pull request adheres to the following guidelines:
 - Please check as much as possible your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome.
-
+- Please check that your contribution follow the following requirement
+  - The application have to follow at least a bit the GNOME HIG, by using an headerbar as the titlebar and that it looks clean in a vanilla GNOME desktop.
+  - Please avoid unmaintained applications or extensions, as they could break with time. Please also avoid application that haven't any stable release yet or that aren't mature yet.
+  - If the application you propose is a Core GNOME application, please lable it as such.
+  
 Thank you for your suggestions!
 
 
