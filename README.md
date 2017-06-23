@@ -54,6 +54,8 @@
 - [Ring-GTK](https://ring.cx/) is a Ring GTK/GNOME client.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) is a Twitch GTK/GNOME client.
 - [Haguichi](https://www.haguichi.net/) is a graphical frontend for Hamachi on Linux.
+- [Webmusic](https://github.com/badcel/webmusic) is an application that integrate web-based music browser to your desktop.
+- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) is a runtime for web-based music streaming services providing more native user experience and integration with Linux desktop environments.
 
 ### Content Applications
 
