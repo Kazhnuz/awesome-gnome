@@ -115,6 +115,7 @@
 
 - [Greybird](https://github.com/shimmerproject/Greybird/) is the official Xubuntu theme.
 - [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc.
+- [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) is a theme that mimics OSX looks and feel.
 
 ## Developer Tools
 
