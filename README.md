@@ -57,6 +57,7 @@
 - [Webmusic](https://github.com/badcel/webmusic) is an application that integrate web-based music browser to your desktop.
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) is a runtime for web-based music streaming services providing more native user experience and integration with Linux desktop environments.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) is a remote client for the Transmission torrent daemon.
+- [Vocal](https://github.com/needle-and-thread/vocal) is a powerful, beautiful, and simple podcast client for the modern free desktop.
 
 ### Content Applications
 
