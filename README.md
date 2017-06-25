@@ -42,6 +42,8 @@
 - [GTimeLog](https://github.com/gtimelog/gtimelog) is a simple app for keeping track of time.
 - [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) is a Pomodoro timer.
+- [Parlatype](http://gkarsay.github.io/parlatype/) is an audio player specialized for transcription.
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) is a limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications.
 
 ### Internet
 
