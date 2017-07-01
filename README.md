@@ -11,9 +11,12 @@
   - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
 - [Extensions](#extensions)
-  - [Applets and Menus](#applets-and-menus)
+  - [Menus](#menus)
+  - [Applets](#applets)
   - [Status Area](#status-area)
+  - [Windows](#windows)
   - [Docks and Panels](#docks-and-panels)
+  - [Services Integration](#services-integration)
 - [Themes](#themes)
   - [Adwaita-based](#adwaita-based)
   - [Material](#material)
@@ -102,11 +105,6 @@
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) is a bitbar clone for GNOME.
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) divide the status menu into several applets.
 
-### Docks and Panels
-- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) transform the GNOME's Dash into a fully-featured dock.
-- [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) create a modern dock that fuse workspace's and dock's functionnalities.
-- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) give to GNOME users a moderk taskbar not unlike the ones on Windows 7+ and KDE.
-
 ### Windows
 - [Window Corner Preview](https://github.com/medenagan/window-corner-preview) add a preview of a windows in the corner of your desktop.
 - [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) offer you the possibility to show all your windows in a cascade.
@@ -114,7 +112,12 @@
 - [gTile](https://github.com/vibou/vibou.gTile) brings more advanced tiling to GNOME Shell.
 - [Shellshape](http://gfxmonk.net/shellshape/) is a tiling window extension for GNOME Shell.
 
-### Service integration
+### Docks and Panels
+- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) transform the GNOME's Dash into a fully-featured dock.
+- [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) create a modern dock that fuse workspace's and dock's functionnalities.
+- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) give to GNOME users a moderk taskbar not unlike the ones on Windows 7+ and KDE.
+
+### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) integrate GMail with your GNOME Desktop.
 
 ## Themes
