@@ -77,27 +77,45 @@
 
 - [Plotinus](https://github.com/p-e-w/plotinus) is a command palette for GTK3 Applications.
 
----
-
 ## Extensions
 
-### Applets and Menus
-
-- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) is a applet that let you desactivate the GNOME lockscreen.
-- [Removalbe Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) is a status menu to show your removable drives.
+### Menus
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) is a category-based menu for applications
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) is a menu to have a fast access to your folders.
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) is an weather applet for GNOME.
+- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) is a Windows7-like application menu inspired by the one of Zorin OS
+
+### Applets
+
+- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) is an applet that let you desactivate the GNOME lockscreen.
+- [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) is a status menu to show your removable drives.
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) is an weather applet.
+- [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) is an ambiant noise applet.
+- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) is a simple cliboard applet.
+- [Desk Changer](https://github.com/BigE/desk-changer/) is a wallpaper slideshow applet.
+- [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) is an emoji picker applet.
+- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) is an advanced MPRIS applet for GNOME
+- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) is a GNOME Shell interface for todo.txt
 
 ### Status Area
 - [Topicons +](https://extensions.gnome.org/extension/1031/topicons/) is a traditionnal systray for the topbar of GNOME.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) is an appindicator systray for GNOME.
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) is a bitbar clone for GNOME.
+- [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) divide the status menu into several applets.
 
 ### Docks and Panels
-
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) transform the GNOME's Dash into a fully-featured dock.
 - [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) create a modern dock that fuse workspace's and dock's functionnalities.
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) give to GNOME users a moderk taskbar not unlike the ones on Windows 7+ and KDE.
+
+### Windows
+- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) add a preview of a windows in the corner of your desktop.
+- [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) offer you the possibility to show all your windows in a cascade.
+- [Pixel Saver](https://github.com/deadalnix/pixel-saver) merge the activity bar and the title bar of maximized window.
+- [gTile](https://github.com/vibou/vibou.gTile) brings more advanced tiling to GNOME Shell.
+- [Shellshape](http://gfxmonk.net/shellshape/) is a tiling window extension for GNOME Shell.
+
+### Service integration
+- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) integrate GMail with your GNOME Desktop.
 
 ## Themes
 
