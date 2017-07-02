@@ -168,9 +168,9 @@
 
 ### Material Icons
 
-- [Paper](https://snwh.org/paper) is a material icon theme
+- [Paper](https://snwh.org/paper) is a material icon theme.
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is a material icon theme, initially based on Paper
-- [Pop!](https://github.com/system76/pop-icon-theme) is the official icon theme of System76, based on Papirus
+- [Pop!](https://github.com/system76/pop-icon-theme) is the official icon theme of System76, based on Papirus.
 
 ### Flat Icons
 
@@ -180,7 +180,7 @@
 ### Squared Icons
 
 - [Moka](https://snwh.org/moka) is a simple squared icon theme, loosely based on the Tango specification.
-- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) is a continuation of the famous Faenza theme
+- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) is a continuation of the famous Faenza theme.
 
 ### Skeumorphic
 
