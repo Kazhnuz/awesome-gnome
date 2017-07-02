@@ -136,25 +136,28 @@
 
 ### Adwaita-based
 
-- [Minwaita](https://github.com/godlyranchdressing/Minwaita) is a more compact fork of Adwaita.
-- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) is another compact version of Adwaita, more faithfull than minwaita but less compact.
+- [Minwaita](https://github.com/godlyranchdressing/Minwaita) is a more compact fork of Adwaita. (GTK, Shell)
+- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) is another compact version of Adwaita, more faithfull than minwaita but less compact. (GTK, Shell)
 
 ### Material
 
-- [Flat-Plat](https://github.com/nana-4/Flat-Plat) is a Material Design-like theme for GNOME/GTK+ based desktop environments.
-- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) is an adaptive Gtk+ theme based on Material Design Guidelines.
+- [Flat-Plat](https://github.com/nana-4/Flat-Plat) is a Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
+- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) is an adaptive Gtk+ theme based on Material Design Guidelines. (GTK, Shell)
 
 ### Flat
 
-- [Arc](https://github.com/horst3180/Arc-theme) is a flat theme with transparent elements.
-- [Pop](https://github.com/system76/pop-gtk-theme/) is the official theme of System76, using a two-color blue and orange scheme.
-- [United](https://github.com/godlyranchdressing/United-GNOME/) is a Unity8-inspired theme for GNOME.
+- [Arc](https://github.com/horst3180/Arc-theme) is a flat theme with transparent elements. (GTK, Shell)
+- [Pop](https://github.com/system76/pop-gtk-theme/) is the official theme of System76, using a two-color blue and orange scheme. (GTK, Shell)
+- [United](https://github.com/godlyranchdressing/United-GNOME/) is a Unity8-inspired theme for GNOME. (GTK, Shell)
+- [Numix](https://github.com/numixproject/numix-gtk-theme) is a popular flat semi-dark theme with orange touch.
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a flat grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
 
 ### Metallic
 
-- [Greybird](https://github.com/shimmerproject/Greybird/) is the official Xubuntu theme.
-- [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc.
-- [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) is a theme that mimics OSX looks and feel.
+- [Greybird](https://github.com/shimmerproject/Greybird/) is the official Xubuntu theme. (GTK)
+- [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc. (GTK, Shell)
+- [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) is a theme that mimics OSX looks and feel. (GTK, Shell)
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a skeumorphic grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
 
 ## Developer Tools
 
