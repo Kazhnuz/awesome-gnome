@@ -9,6 +9,7 @@
   - [Internet](#internet)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
+  - [Customization](#customization)
   - [System](#system)
   - [Tools](#tools)
   - [Others](#others)
@@ -74,6 +75,12 @@
 - [Coulr](https://github.com/Huluti/Coulr) lets you convert between RGB and hexadecimal codes for colours.
 - [GColor 3](https://hjdskes.github.io/projects/gcolor3/) is a GTK3 color picker for GNOME.
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) is a powerfull and advanced application to manage your photos and image in GNOME.
+
+### Customization
+
+- [GNOME Tweak Tool](https://wiki.gnome.org/Apps/GnomeTweakTool) is the official tools by the GNOME project for tweaking your desktop.
+- [GNOME AppFolder Manager](http://www.muflone.com/en/gnome-appfolders-manager/index) is a tool to manage the applications folder in the application overlay of GNOME.
+- [Menulibre](https://smdavis.us/projects/menulibre/) is an apps to manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 
 ### Tools
 
