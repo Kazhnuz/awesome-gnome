@@ -7,7 +7,7 @@
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
-  - [Multimedia](#content-applications)
+  - [Multimedia](#multimedia)
   - [Graphics](#graphics)
   - [System](#system)
   - [Tools](#tools)
@@ -25,6 +25,11 @@
   - [Material](#material)
   - [Flat](#flat)
   - [Metallic](#metallic)
+- [Icons](#icons)
+  - [Material Icons](#material-icons)
+  - [Flat Icons](#flat-icons)
+  - [Squared Icons](#squared-icons)
+  - [Skeumorphic](#skeumorphic)
 - [Developer Tools](#developer-tools)
   - [IDE](#ide)
   - [Libraries and Utility](#libraries-and-utility)
@@ -149,8 +154,8 @@
 - [Arc](https://github.com/horst3180/Arc-theme) is a flat theme with transparent elements. (GTK, Shell)
 - [Pop](https://github.com/system76/pop-gtk-theme/) is the official theme of System76, using a two-color blue and orange scheme. (GTK, Shell)
 - [United](https://github.com/godlyranchdressing/United-GNOME/) is a Unity8-inspired theme for GNOME. (GTK, Shell)
-- [Numix](https://github.com/numixproject/numix-gtk-theme) is a popular flat semi-dark theme with orange touch.
-- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a flat grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
+- [Numix](https://github.com/numixproject/numix-gtk-theme) is a popular flat semi-dark theme with orange touch. (GTK)
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a flat grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme)
 
 ### Metallic
 
@@ -158,6 +163,28 @@
 - [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) is a theme that mimics OSX looks and feel. (GTK, Shell)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) is a skeumorphic grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
+
+## Icons
+
+### Material Icons
+
+- [Paper](https://snwh.org/paper) is a material icon theme
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is a material icon theme, initially based on Paper
+- [Pop!](https://github.com/system76/pop-icon-theme) is the official icon theme of System76, based on Papirus
+
+### Flat Icons
+
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) is a flat rounded icon theme.
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) is an icon-theme inspired by the MacOS guidelines.
+
+### Squared Icons
+
+- [Moka](https://snwh.org/moka) is a simple squared icon theme, loosely based on the Tango specification.
+- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) is a continuation of the famous Faenza theme
+
+### Skeumorphic
+
+- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) is (despite its name) a desktop-free version of the icons of Elementary.
 
 ## Developer Tools
 
