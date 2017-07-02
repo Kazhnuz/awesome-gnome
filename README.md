@@ -206,3 +206,4 @@
 - [GNOME Developer Center](https://developer.gnome.org/) contain all the official GNOME documentations.
 - [Valadoc](https://valadoc.org/), a documentation about Vala.
 - [GJS Documentation](http://devdocs.baznga.org/) is the documentation for the javascript GTK bindings.
+- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) is an introduction to writing GTK+ 3 applications in Python.
