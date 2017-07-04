@@ -9,6 +9,7 @@
   - [Internet](#internet)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
+  - [Games](#games)
   - [Customization](#customization)
   - [System](#system)
   - [Tools](#tools)
@@ -43,11 +44,13 @@
 
 ### Productivity
 
+- [GNOME Todo](https://wiki.gnome.org/Apps/Todo) is a minimal task manager. (Core App)
 - [GTimeLog](https://github.com/gtimelog/gtimelog) is a simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) is a Pomodoro timer.
 
 ### Internet
 
+- [GNOME Web](https://wiki.gnome.org/Apps/Web) is the official web browser project of GNOME. (Core App)
 - [Eolie](https://github.com/gnumdk/eolie) is a web browser using vertical tabs.
 - [Dino](https://github.com/dino/dino) is a modern XMPP/Jabber client following GNOME's HIG (no stable release yet).
 - [Geary](https://wiki.gnome.org/Apps/Geary) is a modern mail client for GNOME, created originally by Yorba.
@@ -75,6 +78,10 @@
 - [Coulr](https://github.com/Huluti/Coulr) lets you convert between RGB and hexadecimal codes for colours.
 - [GColor 3](https://hjdskes.github.io/projects/gcolor3/) is a GTK3 color picker for GNOME.
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) is a powerfull and advanced application to manage your photos and image in GNOME.
+
+### Games
+
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) is a game launcher and an emulation frontend to libretro
 
 ### Customization
 
