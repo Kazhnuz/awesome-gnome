@@ -153,6 +153,8 @@
 
 ## Themes
 
+- [oomox](https://github.com/actionless/oomox) Graphical application for generating different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons.
+
 ### Adwaita-based
 
 - [Minwaita](https://github.com/godlyranchdressing/Minwaita) is a more compact fork of Adwaita. (GTK, Shell)
