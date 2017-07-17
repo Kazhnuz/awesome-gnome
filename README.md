@@ -153,7 +153,7 @@
 
 ## Themes
 
-- [oomox](https://github.com/actionless/oomox) Graphical application for generating different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons.
+- [Oomox](https://github.com/actionless/oomox) is a graphical application for generating different color variations of Numix theme (GTK2, GTK3), Gnome-Colors and Archdroid icons.
 
 ### Adwaita-based
 
