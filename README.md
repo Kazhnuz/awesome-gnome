@@ -7,6 +7,7 @@
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
+  - [Documents](#documents)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
   - [Games](#games)
@@ -62,6 +63,11 @@
 - [Haguichi](https://www.haguichi.net/) is a graphical frontend for Hamachi on Linux.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) is a remote client for the Transmission torrent daemon.
 
+### Documents
+
+- [NFO Viewer](https://github.com/otsaloma/nfoview) is a simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
+- [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs.
+
 ### Multimedia
 
 - [Webmusic](https://github.com/badcel/webmusic) is an application that integrate web-based music browser to your desktop.
@@ -95,8 +101,6 @@
 - [Tilix](https://github.com/gnunn1/terminix/) is a tiling terminal emulator for GNOME.
 - [GPaste](https://github.com/Keruspe/GPaste) is a clipboard manager for GNOME (that is composed of both an applicaiton and an extension).
 - [Peek](https://github.com/phw/peek) is a simple screen recorder that saves your recording as a GIF.
-- [NFO Viewer](https://github.com/otsaloma/nfoview) is a simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
-- [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs.
 
 ### System
 
