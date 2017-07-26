@@ -69,6 +69,7 @@
 - [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs.
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) is a modern GTK Python app to easily read ePub files.
 - [Bookworm](https://github.com/babluboy/bookworm) is an elementaryOS simple, focused eBook reader that looks good in GNOME desktop.
+- [Showdown](https://github.com/craigbarnes/showdown) is a simple markdown viewer.
 
 ### Multimedia
 
