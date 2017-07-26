@@ -67,6 +67,7 @@
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) is a simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://github.com/openpaperwork/paperwork) is a personal document manager for scanned documents and PDFs.
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) is a modern GTK Python app to easily read ePub files.
 
 ### Multimedia
 
