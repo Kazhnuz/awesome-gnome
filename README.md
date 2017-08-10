@@ -185,7 +185,7 @@
 - [Greybird](https://github.com/shimmerproject/Greybird/) is the official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) is a theme that mimics the look and feel of macOS. (GTK, Shell)
-- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a skeumorphic grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) is a skeumorphic grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
 
 ## Icons
 
