@@ -92,7 +92,7 @@
 
 ### Games
 
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) is a game launcher and an emulation frontend to libretro
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) is a game launcher and an emulation frontend to libretro.
 
 ### Customization
 
@@ -104,7 +104,7 @@
 
 - [Catfish](https://launchpad.net/catfish-search) search application, created for XFCE but follows the GNOME HIG.
 - [Tilix](https://github.com/gnunn1/terminix/) is a tiling terminal emulator for GNOME.
-- [GPaste](https://github.com/Keruspe/GPaste) is a clipboard manager for GNOME (that is composed of both an applicaiton and an extension).
+- [GPaste](https://github.com/Keruspe/GPaste) is a clipboard manager for GNOME (composed of both an applicaiton and an extension).
 - [Peek](https://github.com/phw/peek) is a simple screen recorder that saves your recording as a GIF.
 
 ### System
@@ -123,9 +123,9 @@
 ## Extensions
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) is a category-based menu for applications
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) is a category-based menu for applications.
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) is a menu that provides fast access to your folders.
-- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) is a Windows7-like application menu inspired by the one in Zorin OS
+- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) is a Windows7-like application menu inspired by the one in Zorin OS.
 
 ### Applets
 
@@ -136,8 +136,8 @@
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) is a simple clipboard applet.
 - [Desk Changer](https://github.com/BigE/desk-changer/) is a wallpaper slideshow applet.
 - [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) is an emoji picker applet.
-- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) is an advanced MPRIS applet for GNOME
-- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) is a GNOME Shell interface for todo.txt
+- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) is an advanced MPRIS applet for GNOME.
+- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) is a GNOME Shell interface for todo.txt.
 
 ### Status Area
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) is a traditional systray for the status bar of GNOME.
@@ -180,21 +180,21 @@
 - [Pop](https://github.com/system76/pop-gtk-theme/) is the official theme of System76, using a two-color blue and orange scheme. (GTK, Shell)
 - [United](https://github.com/godlyranchdressing/United-GNOME/) is a Unity8-inspired theme for GNOME. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) is a popular flat semi-dark theme with an orange touch. (GTK)
-- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a flat grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme)
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) is a flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
 
 ### Metallic
 
 - [Greybird](https://github.com/shimmerproject/Greybird/) is the official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) is another theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) is a theme that mimics the look and feel of macOS. (GTK, Shell)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) is a skeumorphic grey theme, part of the zuki-theme suite (GTK, works with Zuki-Shell for the shell theme).
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) is a skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
 ## Icons
 
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) is a material icon theme.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is a material icon theme, initially based on Paper
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) is a material icon theme, initially based on Paper.
 - [Pop!](https://github.com/system76/pop-icon-theme) is the official icon theme of System76, based on Papirus.
 
 ### Flat Icons
