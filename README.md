@@ -4,6 +4,8 @@
 
 [GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unixes, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
 
+> Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
+
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
@@ -45,13 +47,13 @@
 
 ### Productivity
 
-- [GNOME Todo](https://wiki.gnome.org/Apps/Todo) is a minimal task manager. (Core App)
+- [GNOME Todo](https://wiki.gnome.org/Apps/Todo) is a minimal task manager. ![GNOME Core][GNOME Core]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) is a simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) is a Pomodoro timer.
 
 ### Internet
 
-- [GNOME Web](https://wiki.gnome.org/Apps/Web) is the official web browser project of GNOME. (Core App)
+- [GNOME Web](https://wiki.gnome.org/Apps/Web) is the official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Eolie](https://github.com/gnumdk/eolie) is a web browser that uses vertical tabs.
 - [Dino](https://github.com/dino/dino) is a modern XMPP/Jabber client following GNOME's HIG (no stable release yet).
 - [Geary](https://wiki.gnome.org/Apps/Geary) is a modern mail client for GNOME, created originally by Yorba.
@@ -230,3 +232,5 @@
 - [Valadoc](https://valadoc.org/), a documentation about Vala.
 - [GJS Documentation](http://devdocs.baznga.org/) is the documentation for the JavaScript GTK bindings.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) is an introduction to writing GTK+ 3 applications in Python.
+
+[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
