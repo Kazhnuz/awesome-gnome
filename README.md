@@ -55,7 +55,6 @@
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) is the official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Eolie](https://github.com/gnumdk/eolie) is a web browser that uses vertical tabs.
-- [Dino](https://github.com/dino/dino) is a modern XMPP/Jabber client following GNOME's HIG (no stable release yet).
 - [Geary](https://wiki.gnome.org/Apps/Geary) is a modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) is a RSS feeds reader.
 - [Corebird](http://corebird.baedert.org/) is a Twitter client.
