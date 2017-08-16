@@ -6,6 +6,8 @@
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
 
+## Contents  
+
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
