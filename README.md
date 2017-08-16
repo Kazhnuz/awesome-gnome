@@ -8,8 +8,6 @@
 
 ## Contents  
 
----
-
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
