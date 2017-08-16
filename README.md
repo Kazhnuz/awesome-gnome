@@ -63,6 +63,7 @@
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) is a Twitch GTK/GNOME client.
 - [Haguichi](https://www.haguichi.net/) is a graphical frontend for Hamachi on Linux.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) is a remote client for the Transmission torrent daemon.
+- [Yt-Browser](https://github.com/juanfgs/yt-browser) is a GTK3 interface for youtube-dl.
 
 ### Documents
 
