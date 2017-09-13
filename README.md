@@ -209,6 +209,7 @@
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 - [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+- [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ### Skeumorphic
 
