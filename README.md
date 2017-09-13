@@ -37,7 +37,7 @@
 - [Icons](#icons)
   - [Material Icons](#material-icons)
   - [Flat Icons](#flat-icons)
-  - [Squared Icons](#squared-icons)
+  - [Homogeneous Icons](#homogeneous-icons)
   - [Skeumorphic](#skeumorphic)
 - [Developer Tools](#developer-tools)
   - [IDE](#ide)
@@ -202,13 +202,13 @@
 
 ### Flat Icons
 
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 - [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines.
 
-### Squared Icons
+### Homogeneous Icons
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 
 ### Skeumorphic
 
