@@ -217,6 +217,17 @@
 
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
+## Community
+
+- [Reddit](https://www.reddit.com/r/gnome)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
+- [`@gnome` on Twitter](https://twitter.com/gnome)
+- [`@gnome` on GNU Social](https://quitter.no/gnome)
+- [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
+- [GIMPNet](https://wiki.gnome.org/Community/GettingInTouch/IRC) - GNOME IRC Server
+- [GNOME Wiki](https://wiki.gnome.org/)
+
+
 ## Developer Tools
 
 ### IDE
@@ -238,15 +249,5 @@
 - [Valadoc](https://valadoc.org/) - Documentation about Vala.
 - [GJS Documentation](http://devdocs.baznga.org/) - Documentation for the JavaScript GTK bindings.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
-
-## Community
-
-- [Reddit](https://www.reddit.com/r/gnome)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
-- [`@gnome` on Twitter](https://twitter.com/gnome)
-- [`@gnome` on GNU Social](https://quitter.no/gnome)
-- [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
-- [GIMPNet](https://wiki.gnome.org/Community/GettingInTouch/IRC) - GNOME IRC Server
-- [GNOME Wiki](https://wiki.gnome.org/)
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
