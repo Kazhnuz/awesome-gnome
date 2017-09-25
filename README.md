@@ -239,7 +239,7 @@
 - [GJS Documentation](http://devdocs.baznga.org/) - Documentation for the JavaScript GTK bindings.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
-## Community Ressources
+## Community
 
 - [Reddit](https://www.reddit.com/r/gnome)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
