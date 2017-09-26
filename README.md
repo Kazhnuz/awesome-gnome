@@ -224,12 +224,11 @@
 - [`@gnome` on Twitter](https://twitter.com/gnome)
 - [`@gnome` on GNU Social](https://quitter.no/gnome)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
-- [GIMPNet](https://wiki.gnome.org/Community/GettingInTouch/IRC) - GNOME IRC Server
+- [`#gnome` on GIMPNet](irc://irc.gnome.org/gnome) - General-purpose GNOME irc channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [GNOME on Google+](https://plus.google.com/+gnome)
 - [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developpers' blogs
-
 
 ## Developer Tools
 
