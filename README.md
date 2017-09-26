@@ -226,6 +226,8 @@
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [GIMPNet](https://wiki.gnome.org/Community/GettingInTouch/IRC) - GNOME IRC Server
 - [GNOME Wiki](https://wiki.gnome.org/)
+- [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
+- [GNOME on Google+](https://plus.google.com/+gnome)
 
 
 ## Developer Tools
