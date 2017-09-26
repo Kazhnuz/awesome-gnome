@@ -39,6 +39,7 @@
   - [Flat Icons](#flat-icons)
   - [Homogeneous Icons](#homogeneous-icons)
   - [Skeumorphic](#skeumorphic)
+- [Community](#community)
 - [Developer Tools](#developer-tools)
   - [IDE](#ide)
   - [Libraries and Utility](#libraries-and-utility)
@@ -215,6 +216,19 @@
 ### Skeumorphic
 
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+
+## Community
+
+- [Reddit](https://www.reddit.com/r/gnome)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
+- [`@gnome` on Twitter](https://twitter.com/gnome)
+- [`@gnome` on GNU Social](https://quitter.no/gnome)
+- [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
+- [GIMPNet](https://wiki.gnome.org/Community/GettingInTouch/IRC) - GNOME IRC Server
+- [GNOME Wiki](https://wiki.gnome.org/)
+- [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
+- [GNOME on Google+](https://plus.google.com/+gnome)
+
 
 ## Developer Tools
 
