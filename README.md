@@ -228,6 +228,7 @@
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [GNOME on Google+](https://plus.google.com/+gnome)
+- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developpers' blogs
 
 
 ## Developer Tools
