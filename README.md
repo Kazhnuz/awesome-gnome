@@ -219,6 +219,8 @@
 
 ## Community
 
+- [GNOME News Feed](https://www.gnome.org/news/) - Official news posts from GNOME.
+- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs
 - [Reddit](https://www.reddit.com/r/gnome)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
 - [`@gnome` on Twitter](https://twitter.com/gnome)
@@ -229,8 +231,6 @@
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [`GNOME` on Google+](https://plus.google.com/+gnome)
 - [GNOME Community on Google+](https://plus.google.com/communities/104680683972837006235)
-- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs
-- [GNOME News Feed](https://www.gnome.org/news/) - Official news posts from GNOME.
 
 ## Developer Tools
 
