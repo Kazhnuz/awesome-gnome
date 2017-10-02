@@ -6,7 +6,7 @@
 
 [GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unixes, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
 
-> Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
+> Items marked with ![GNOME Core][GNOME Core] are applications officially distributed by the GNOME Project as part of their Core Applications set.
 
 ## Contents  
 
