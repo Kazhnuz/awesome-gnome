@@ -20,8 +20,8 @@ Ensure your pull request adheres to the following guidelines:
   - The application has to follow enough of the GNOME HIG to work in a GNOME-based Desktop, by using an headerbar as the titlebar and looking clean in a vanilla GNOME desktop.
   - Please avoid unmaintained items as they could break with time. 
   - Please avoid items that haven't had any stable release, aren't mature or aren't mature yet.
-  - If the item you propose is a Core Application, please label it as such, by adding `![GNOME Core][GNOME Core]` at the end of the description. You can find the official list of Core Application for GNOME 3.26 [here](https://blogs.gnome.org/mcatanzaro/2017/08/13/gnome-3-26-core-applications/)
-- If the item you want to add doesn't follow the requirements for being on this list, but will follow them in the future (in a future version for the HIG, for instance), please submit an issue for it.
+  - If the item you propose is a core application, please label it as such, by adding `![GNOME Core][GNOME Core]` at the end of the description. You can find the official list of core pplications for GNOME 3.26 [here](https://blogs.gnome.org/mcatanzaro/2017/08/13/gnome-3-26-core-applications/).
+- If the item you want to add doesn't follow the requirements for being on this list, but will follow them in the future (such as a future version that is compatible with GNOME's HIG), please submit an issue for it.
   
 Thank you for your suggestions!
 
