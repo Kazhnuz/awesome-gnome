@@ -176,7 +176,7 @@
 
 ### Material
 
-- [Flat-Plat](https://github.com/nana-4/Flat-Plat) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
+- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
 
 ### Flat
