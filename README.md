@@ -87,6 +87,7 @@
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
+- [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
 
 ### Graphics
 
