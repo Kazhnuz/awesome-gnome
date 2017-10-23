@@ -102,7 +102,7 @@
 ### Customization
 
 - [GNOME Tweak Tool](https://wiki.gnome.org/Apps/GnomeTweakTool) - Official tweak tool provided by the GNOME project for tweaking your desktop.
-- [GNOME AppFolder Manager](http://www.muflone.com/en/gnome-appfolders-manager/index) - Tool to manage the applications folder in the application overlay of GNOME.
+- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 
 ### Tools
