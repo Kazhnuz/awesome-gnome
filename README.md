@@ -88,6 +88,7 @@
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux
 
 ### Graphics
 
