@@ -145,6 +145,7 @@
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
 - [MConnect](https://github.com/andyholmes/gnome-shell-extension-mconnect) - KDE Connect/MConnect integration for Gnome Shell
+- [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 
 ### Status Area
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray for the status bar of GNOME.
