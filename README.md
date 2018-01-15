@@ -9,7 +9,9 @@
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
 
 ## Contents  
-
+- [Operating Systems](#operating-systems)
+  - [Vanilla GNOME](#vanilla-gnome)
+  - [Customized GNOME](#customized-gnome)
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
@@ -47,6 +49,18 @@
   - [Documentation](#documentation)
 
 ---
+
+## Operating Systems
+
+### Vanilla GNOME
+
+- [Fedora](https://getfedora.org/)
+
+### Customized GNOME
+
+- [Ubuntu](http://www.ubuntu.com/) 
+- [Zorin OS](https://zorinos.com/)
+- [Endless OS](https://endlessos.com/)
 
 ## Applications
 
