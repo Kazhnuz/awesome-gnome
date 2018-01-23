@@ -39,6 +39,7 @@
   - [Flat Icons](#flat-icons)
   - [Homogeneous Icons](#homogeneous-icons)
   - [Skeumorphic](#skeumorphic)
+  - [Cursors](#cursors)
 - [Community](#community)
 - [Developer Tools](#developer-tools)
   - [IDE](#ide)
@@ -196,6 +197,11 @@
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [GNOME OSX](https://github.com/paullinuxthemer/Gnome-OSX) - Theme that mimics the look and feel of macOS. (GTK, Shell)
 - [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
+
+### Cursors
+ - [ComixCursors](https://www.gnome-look.org/p/999996/)
+ - [Bibata](https://www.gnome-look.org/p/1197198/)
+ - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)
 
 ## Icons
 
