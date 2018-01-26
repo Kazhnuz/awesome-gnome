@@ -158,7 +158,7 @@
 ### Windows
 - [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen.
 - [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - Quickly arrange windows in a cascade.
-- [Pixel Saver](https://github.com/deadalnix/pixel-saver) - Merges the activity bar and the title bar of maximized windows.
+- [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
 - [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell.
 - [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension for GNOME Shell.
 
