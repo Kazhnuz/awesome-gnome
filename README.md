@@ -55,6 +55,7 @@
 ### Vanilla GNOME
 
 - [Fedora](https://getfedora.org/)
+- [PureOS](https://pureos.net/)
 
 ### Customized GNOME
 
