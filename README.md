@@ -22,6 +22,7 @@
   - [System](#system)
   - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
+- [Plugins](#plugins)
 - [Extensions](#extensions)
   - [Menus](#menus)
   - [Applets](#applets)
@@ -127,6 +128,10 @@
 ## GTK Modules and Systems
 
 - [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications.
+
+## Plugins
+
+/* WIP : List interesting plugins */
 
 ## Extensions
 
