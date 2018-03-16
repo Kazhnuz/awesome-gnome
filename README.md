@@ -77,6 +77,7 @@
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
+- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
 
 ### Multimedia
 
