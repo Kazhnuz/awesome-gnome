@@ -115,6 +115,7 @@
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 
 ### System
 
