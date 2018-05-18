@@ -100,11 +100,11 @@
 
 ### Games
 
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro. ![GNOME Core][GNOME Core]
 
 ### Customization
 
-- [GNOME Tweak Tool](https://wiki.gnome.org/Apps/GnomeTweakTool) - Official tweak tool provided by the GNOME project for tweaking your desktop.
+- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Previously known as Tweak Tool. Graphical interface for advanced GNOME 3 settings. ![GNOME Core][GNOME Core]
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 - [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME
