@@ -13,6 +13,7 @@
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
+  - [Editor](#editor)
   - [Documents](#documents)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
