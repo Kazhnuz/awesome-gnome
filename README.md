@@ -201,6 +201,7 @@
 - [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
+- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell)
 
 ### Metallic
 
