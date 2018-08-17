@@ -114,6 +114,7 @@
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 - [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME
+- [Dynamic Wallpaper Editor](https://github.com/Maestroschan/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ### Tools
 
