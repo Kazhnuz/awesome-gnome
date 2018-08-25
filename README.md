@@ -139,6 +139,11 @@
 
 ## Extensions
 
+### Desktop
+
+- [Places and Files Direct Access](https://github.com/Maestroschan/Places-and-files-direct-access) - Access your places and files directly on your desktop.
+- [Notes](https://github.com/Maestroschan/notes-extension-gnome) - GNOME Shell extension providing customizable sticky notes
+
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders.
