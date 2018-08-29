@@ -114,7 +114,7 @@
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 - [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME
-- [Dynamic Wallpaper Editor](https://github.com/Maestroschan/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ### Tools
 
@@ -141,8 +141,8 @@
 
 ### Desktop
 
-- [Places and Files Direct Access](https://github.com/Maestroschan/Places-and-files-direct-access) - Access your places and files directly on your desktop.
-- [Notes](https://github.com/Maestroschan/notes-extension-gnome) - GNOME Shell extension providing customizable sticky notes
+- [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - Access your places and files directly on your desktop.
+- [Notes](https://github.com/maoschanz/notes-extension-gnome) - GNOME Shell extension providing customizable sticky notes
 
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
@@ -157,7 +157,7 @@
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
-- [Emoji Selector](https://github.com/Maestroschan/emoji-selector-for-gnome) - Emoji picker applet.
+- [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
