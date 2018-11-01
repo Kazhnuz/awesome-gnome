@@ -202,7 +202,7 @@
 
 ### Flat
 
-- [Arc](https://github.com/horst3180/Arc-theme) - Flat theme with transparent elements. (GTK, Shell)
+- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
 - [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
 - [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
