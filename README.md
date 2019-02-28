@@ -71,6 +71,7 @@
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi on Linux.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
+- [Meteo](https://gitlab.com/bitseater/meteo) - forecast application with temperature & clouds & wind maps.
 
 ### Editor
 
@@ -92,7 +93,8 @@
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
+- [GRadio](https://github.com/haecker-felix/gradio/) - Deprecated client for web-based radio.
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - client for online radio. 
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
