@@ -125,6 +125,7 @@
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
+- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
 
 ### System
 
