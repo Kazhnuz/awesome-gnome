@@ -106,6 +106,7 @@
 
 ### Games
 
+- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### Customization
