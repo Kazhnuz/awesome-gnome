@@ -254,7 +254,7 @@
 - [Reddit](https://www.reddit.com/r/gnome)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
 - [`@gnome` on Twitter](https://twitter.com/gnome)
-- [`@gnome` on GNU Social](https://quitter.no/gnome)
+- [`@gnome` on floss.social](https://floss.social/@gnome)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 - [GNOME Wiki](https://wiki.gnome.org/)
