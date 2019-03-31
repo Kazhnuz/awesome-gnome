@@ -259,8 +259,6 @@
 - [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
-- [`GNOME` on Google+](https://plus.google.com/+gnome)
-- [GNOME Community on Google+](https://plus.google.com/communities/104680683972837006235)
 
 ## Developer Tools
 
