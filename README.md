@@ -256,6 +256,7 @@
 - [`@gnome` on Twitter](https://twitter.com/gnome)
 - [`@gnome` on floss.social](https://floss.social/@gnome)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
+- [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
 - [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
