@@ -57,6 +57,7 @@
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - A time tracker for GNOME.
 
 ### Internet
 
