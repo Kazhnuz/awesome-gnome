@@ -20,7 +20,6 @@
   - [Games](#games)
   - [Customization](#customization)
   - [Tools](#tools)
-  - [System](#system)
   - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
 - [Extensions](#extensions)
@@ -127,10 +126,6 @@
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
-
-### System
-
-- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd.
 
 ### Others
 
