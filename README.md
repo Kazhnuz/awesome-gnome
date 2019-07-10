@@ -22,6 +22,7 @@
   - [Tools](#tools)
   - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
+- [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
   - [Menus](#menus)
   - [Applets](#applets)
@@ -131,6 +132,10 @@
 
 - [Luminance](http://craigcabrey.com/luminance/) - Philips Hue client.
 - [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
+
+## Third-party Apps Plugins
+
+- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## GTK Modules and Systems
 
