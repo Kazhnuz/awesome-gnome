@@ -175,6 +175,7 @@
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
 - [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell.
 - [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension for GNOME Shell.
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell.
 
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - Transforms the GNOME Dash into a fully-featured dock.
