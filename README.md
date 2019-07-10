@@ -224,6 +224,10 @@
 
 ## Icons
 
+### Adwaita-based
+
+- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party icons theme, based on GNOME 3.32's Adwaita
+
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
