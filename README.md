@@ -44,6 +44,7 @@
 - [Community](#community)
 - [Developer Tools](#developer-tools)
   - [IDE](#ide)
+  - [Design Tooling](#design-tooling)
   - [Libraries and Utility](#libraries-and-utility)
   - [Examples](#examples)
   - [Documentation](#documentations)
@@ -284,6 +285,13 @@
 ### IDE
 
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
+
+### Design Tooling
+
+- [https://gitlab.gnome.org/World/design/icon-tool](Icon Preview) - Simple utility to preview icons.
+- [https://gitlab.gnome.org/World/design/palette](Palette) - Tool for viewing the GNOME colour palette.
+- [https://gitlab.gnome.org/World/design/contrast](Contrast) - Checks the contrast between two colors.
+- [https://gitlab.gnome.org/World/design/icon-library](Icon Library) - Find the right icon to use on your GNOME application.
 
 ### Libraries and Utility
 
