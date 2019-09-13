@@ -74,6 +74,7 @@
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi on Linux.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
+- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application
 
 ### Editor
 
