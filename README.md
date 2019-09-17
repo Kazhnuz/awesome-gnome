@@ -102,6 +102,7 @@
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
 - [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux
+- [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
 ### Graphics
 
