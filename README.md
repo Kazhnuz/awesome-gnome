@@ -89,6 +89,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern GTK eBook reader
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
+- [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 
 ### Multimedia
 
