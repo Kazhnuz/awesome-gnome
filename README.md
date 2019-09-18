@@ -64,6 +64,7 @@
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
+- [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [GNOME Feeds](https://gitlab.com/gabmus/gnome-feeds) - An RSS/Atom feed reader for GNOME.
