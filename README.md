@@ -67,7 +67,7 @@
 - [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
-- [GNOME Feeds](https://gitlab.com/gabmus/gnome-feeds) - An RSS/Atom feed reader for GNOME.
+- [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader for GNOME.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME.
 - [Ring-GTK](https://ring.cx/) - GTK/GNOME client for Ring, a secure communication tool.
