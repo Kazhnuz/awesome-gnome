@@ -30,19 +30,10 @@
   - [Windows](#windows)
   - [Docks and Panels](#docks-and-panels)
   - [Services Integration](#services-integration)
-- [Themes](#themes)
-  - [Upstream-based](#upstream-based)
-  - [Look-a-like](#look-a-like)
-  - [Material](#material)
-  - [Flat](#flat)
-  - [Skeumorphic](#skeumorphic)
-- [Icons and Cursors](#icons-and-cursors)
-  - [Upstream Style](#upstream-style)
-  - [Material Icons](#material-icons)
-  - [Flat Icons](#flat-icons)
-  - [Homogeneous Icons](#homogeneous-icons)
-  - [Skeumorphic Icons](#skeumorphic-icons)
-  - [Cursors](#cursors)
+- [Look-and-feel]
+  - [Themes](#themes)
+  - [Icons](#icons)
+  - [Cursors](#cursor)
 - [Community](#community)
 - [Developpers Ressources](#developpers-ressources)
   - [Libraries](#libraries)
@@ -211,13 +202,15 @@
 ### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
-## Themes
+## Look and Feel
+
+### Themes
 
 > **Note:** GNOME doesn't officially support theming, and custom gtk stylesheet cannot be tested with every application ever. It means that some application might have problems with some of the theme here. You can change the GTK theme with command-line, dconf or Tweaks, but it also means that the pieces are you to keep if anything break :)
 
 - [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
 
-### Upstream-based
+#### Upstream-based
 
 > Themes that extend the upstream theming, or that are compliant to it.
 
@@ -225,57 +218,57 @@
 - [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) - Compact version of Adwaita, more faithful than minwaita but less compact. (GTK, Shell)
 - [Yaru](https://github.com/ubuntu/yaru) - Ubuntu's official community-made style (GTK, Shell)
 
-### Look-a-like Themes
+#### Look-a-like Themes
 
 > Themes that imitate the style of another operating system
 
 - [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell)
 - [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme. (GTK, Shell)
 
-### Material
+#### Material
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive theme based on Material Design Guidelines. (GTK, Shell)
 - [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme (GTK, Shell)
 - [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh (GTK, Shell)
 
-### Flat
+#### Flat
 
 - [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
 - [Pop](https://github.com/pop-os/gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
 
-### Skeumorphic
+#### Skeumorphic
 
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
 - [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
-## Icons and Cursors
+### Icons
 
-### Upstream Style
+#### Upstream Style
 
 - [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
 - [Pop!](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76..
 
-### Material Icons
+#### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
-### Flat Icons
+#### Flat Icons
 
 - [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines.
 
-### Homogeneous Icons
+#### Homogeneous Icons
 
 - [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 - [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
-### Skeumorphic Icons
+#### Skeumorphic Icons
 
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
