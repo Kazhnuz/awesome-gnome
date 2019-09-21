@@ -140,6 +140,7 @@
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
+- [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 
 ### Others
 
