@@ -6,7 +6,7 @@
 
 [GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unixes, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
 
-> Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
+> Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools, or extensions that are maintained and distributed as part of the Classic mode.
 
 ## Contents  
 
@@ -165,8 +165,8 @@
 - [Notes](https://github.com/maoschanz/notes-extension-gnome) - Customizable sticky notes
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
-- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders.
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
+- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic][GNOME Core]
 - [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
 
 ### Applets
