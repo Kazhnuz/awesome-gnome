@@ -82,6 +82,7 @@
 ### Editor
 
 - [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor for GNU/Linux made with GTK+
+- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Documents
 
