@@ -76,6 +76,8 @@
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application
+- [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
+
 
 ### Editor
 
