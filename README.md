@@ -11,15 +11,15 @@
 ## Contents  
 
 - [Applications](#applications)
-  - [Productivity](#productivity)
   - [Internet](#internet)
-  - [Editor](#editor)
-  - [Documents](#documents)
+  - [Office](#office)
+  - [Productivity and Time](#productivity-and-time)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
-  - [Games](#games)
-  - [Customization](#customization)
-  - [Tools](#tools)
+  - [Gaming](#gaming)
+  - [System and Customization](#system-and-customization)
+  - [Utilities](#utilities)
+  - [Developpement and Design](#developpement-and-design) 
   - [Others](#others)
 - [GTK Modules and Systems](#gtk-modules-and-systems)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
@@ -44,10 +44,8 @@
   - [Skeumorphic Icons](#skeumorphic-icons)
   - [Cursors](#cursors)
 - [Community](#community)
-- [Developer Tools](#developer-tools)
-  - [IDE](#ide)
-  - [Design Tooling](#design-tooling)
-  - [Libraries and Utility](#libraries-and-utility)
+- [Developpers Ressources](#developpers-ressources)
+  - [Libraries](#libraries)
   - [Examples](#examples)
   - [Documentation](#documentations)
 
@@ -55,14 +53,7 @@
 
 ## Applications
 
-### Productivity
-
-- [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
-- [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
-- [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
-- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
-
-### Internet
+### Internet and Networking
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
@@ -78,15 +69,8 @@
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - BitTorrent client
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application
-- [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
-
-### Editor
-
-- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
-- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
-
-### Documents
+### Office
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
@@ -96,6 +80,15 @@
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
+- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
+- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+
+### Productivity and Time
+
+- [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
+- [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+- [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Multimedia
 
@@ -118,31 +111,43 @@
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application.
 
-### Games
+### Gaming
 
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform.
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
-### Customization
+### System and Customization
 
-- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Previously known as Tweak Tool. Graphical interface for advanced GNOME3 settings.
+- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME3 settings.
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the GNOME application overlay.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 - [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+- [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
-### Tools
+### Utilities
 
-- [Catfish](https://launchpad.net/catfish-search) - Simple search application.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an applicaiton and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
-- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
-- [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
+- [Catfish](https://launchpad.net/catfish-search) - Simple search application.
+- [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
-- [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
+
+### Developpement and Design
+
+- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
+- [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor.
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala.
+
+#### Design Tooling
+
+- [https://gitlab.gnome.org/World/design/icon-tool](Icon Preview) - Simple utility to preview icons.
+- [https://gitlab.gnome.org/World/design/palette](Palette) - Tool for viewing the GNOME colour palette.
+- [https://gitlab.gnome.org/World/design/contrast](Contrast) - Checks the contrast between two colors.
+- [https://gitlab.gnome.org/World/design/icon-library](Icon Library) - Find the right icon to use on your GNOME application.
 
 ### Others
 
@@ -302,20 +307,9 @@
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
 
-## Developer Tools
+## Developpers Ressources
 
-### IDE
-
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
-
-### Design Tooling
-
-- [https://gitlab.gnome.org/World/design/icon-tool](Icon Preview) - Simple utility to preview icons.
-- [https://gitlab.gnome.org/World/design/palette](Palette) - Tool for viewing the GNOME colour palette.
-- [https://gitlab.gnome.org/World/design/contrast](Contrast) - Checks the contrast between two colors.
-- [https://gitlab.gnome.org/World/design/icon-library](Icon Library) - Find the right icon to use on your GNOME application.
-
-### Libraries and Utility
+### Libraries
 
 - [libdazzle](https://git.gnome.org/browse/libdazzle) - Companion library to GObject and Gtk+, providing various features that the creators wish were in the underlying library but cannot add for various reasons.
 
