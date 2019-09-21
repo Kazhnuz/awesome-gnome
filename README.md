@@ -31,15 +31,17 @@
   - [Docks and Panels](#docks-and-panels)
   - [Services Integration](#services-integration)
 - [Themes](#themes)
-  - [Adwaita-based](#adwaita-based)
+  - [Upstream-based](#upstream-based)
+  - [Look-a-like](#look-a-like)
   - [Material](#material)
   - [Flat](#flat)
-  - [Metallic](#metallic)
-- [Icons](#icons)
+  - [Skeumorphic](#skeumorphic)
+- [Icons and Cursors](#icons-and-cursors)
+  - [Upstream Style](#upstream-style)
   - [Material Icons](#material-icons)
   - [Flat Icons](#flat-icons)
   - [Homogeneous Icons](#homogeneous-icons)
-  - [Skeumorphic](#skeumorphic)
+  - [Skeumorphic Icons](#skeumorphic-icons)
   - [Cursors](#cursors)
 - [Community](#community)
 - [Developer Tools](#developer-tools)
@@ -208,10 +210,20 @@
 
 - [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
 
-### Adwaita-based
+### Upstream-based
+
+> Themes that extend the upstream theming, or that are compliant to it.
 
 - [Minwaita](https://github.com/godlyranchdressing/Minwaita) - Compact fork of Adwaita. (GTK, Shell)
 - [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) - Compact version of Adwaita, more faithful than minwaita but less compact. (GTK, Shell)
+- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu's official community-made style (GTK, Shell)
+
+### Look-a-like Themes
+
+> Themes that imitate the style of another operating system
+
+- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell)
+- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme. (GTK, Shell)
 
 ### Material
 
@@ -223,30 +235,27 @@
 ### Flat
 
 - [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
-- [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
-- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme. (GTK, Shell)
+- [Pop](https://github.com/pop-os/gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
-- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell)
 
-### Metallic
+### Skeumorphic
 
 - [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
 - [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
-- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell)
 - [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
-## Icons
+## Icons and Cursors
 
-### Adwaita-based
+### Upstream Style
 
 - [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+- [Pop!](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76..
 
 ### Material Icons
 
 - [Paper](https://snwh.org/paper) - Material icon theme.
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
-- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus.
 
 ### Flat Icons
 
@@ -259,7 +268,7 @@
 - [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
-### Skeumorphic
+### Skeumorphic Icons
 
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
