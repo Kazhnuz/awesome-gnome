@@ -208,6 +208,8 @@
 
 ## Themes
 
+> **Note:** GNOME doesn't officially support theming, and custom gtk stylesheet cannot be tested with every application ever. It means that some application might have problems with some of the theme here. You can change the GTK theme with command-line, dconf or Tweaks, but it also means that the pieces are you to keep if anything break :)
+
 - [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
 
 ### Upstream-based
