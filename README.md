@@ -24,9 +24,9 @@
 - [GTK Modules and Systems](#gtk-modules-and-systems)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
+  - [Complete Overhaul](#complete-overhaul)
   - [Menus](#menus)
   - [Applets](#applets)
-  - [Status Area](#status-area)
   - [Windows](#windows)
   - [Docks and Panels](#docks-and-panels)
   - [Services Integration](#services-integration)
@@ -155,10 +155,14 @@
 
 ## Extensions
 
+### Complete overhaul
+
+- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
+
 ### Desktop
 
 - [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - Access your places and files directly on your desktop.
-- [Notes](https://github.com/maoschanz/notes-extension-gnome) - GNOME Shell extension providing customizable sticky notes
+- [Notes](https://github.com/maoschanz/notes-extension-gnome) - Customizable sticky notes
 
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
@@ -179,8 +183,6 @@
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
 - [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
-
-### Status Area
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus; fully compatible with BitBar app for macOS. 
@@ -197,7 +199,6 @@
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
 - [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Modern dock that fuses the functionalities of workspaces and docks.
-- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Modern taskbar/panel not unlike the ones on Windows 7+ and KDE.
 
 ### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
