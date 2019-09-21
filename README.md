@@ -58,39 +58,39 @@
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
-- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - A time tracker for GNOME.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Internet
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
-- [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader for GNOME.
+- [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
-- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME.
-- [Ring-GTK](https://ring.cx/) - GTK/GNOME client for Ring, a secure communication tool.
-- [GNOME Twitch](http://gnome-twitch.vinszent.com/) - GTK/GNOME client for watching Twitch.
-- [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi on Linux.
+- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client.
+- [Ring-GTK](https://ring.cx/) - Client for Ring, a secure communication tool.
+- [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
+- [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
-- [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
+- [Fragments](https://github.com/FragmentsApp/Fragments/) - BitTorrent client
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
 
 ### Editor
 
-- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor for GNU/Linux made with GTK+
+- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
-- [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - Modern GTK Python app to easily read ePub files.
+- [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - EBook Viewer.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
-- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern GTK eBook reader
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
@@ -100,44 +100,44 @@
 - [Webmusic](https://github.com/badcel/webmusic) - Web-based music player that integrates your favorite music services into the desktop.
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
-- [Celluloid](https://github.com/celluloid-player/celluloid) - Simple GTK+ frontend for mpv.
+- [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 - [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
-- [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux
+- [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player.
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
 ### Graphics
 
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-- [GColor 3](https://hjdskes.github.io/projects/gcolor3/) - GTK3 color picker for GNOME.
-- [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images in GNOME.
+- [GColor 3](https://hjdskes.github.io/projects/gcolor3/) - Color Picker.
+- [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application.
 
 ### Games
 
-- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux
+- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform.
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### Customization
 
-- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Previously known as Tweak Tool. Graphical interface for advanced GNOME 3 settings.
-- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
+- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Previously known as Tweak Tool. Graphical interface for advanced GNOME3 settings.
+- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the GNOME application overlay.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME
+- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ### Tools
 
-- [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME.
-- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension).
+- [Catfish](https://launchpad.net/catfish-search) - Simple search application.
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an applicaiton and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
-- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
+- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
@@ -176,15 +176,15 @@
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
 - [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
 - [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
-- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME.
-- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
+- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet.
+- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for Gnome Shell 3.24+
+- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 
 ### Status Area
-- [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray for the status bar of GNOME.
-- [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray for GNOME.
+- [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray.
+- [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus; fully compatible with BitBar app for macOS. 
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets.
 
@@ -192,17 +192,17 @@
 - [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen.
 - [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - Quickly arrange windows in a cascade.
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
-- [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell.
-- [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension for GNOME Shell.
-- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell.
+- [gTile](https://github.com/vibou/vibou.gTile) - More advanced tiling.
+- [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension.
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Docks and Panels
-- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - Transforms the GNOME Dash into a fully-featured dock.
+- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
 - [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Modern dock that fuses the functionalities of workspaces and docks.
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Modern taskbar/panel not unlike the ones on Windows 7+ and KDE.
 
 ### Services integration
-- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your GNOME Desktop.
+- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ## Themes
 
@@ -215,16 +215,16 @@
 
 ### Material
 
-- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
-- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell.
-- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh.
+- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme. (GTK, Shell)
+- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive theme based on Material Design Guidelines. (GTK, Shell)
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme (GTK, Shell)
+- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh (GTK, Shell)
 
 ### Flat
 
 - [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
 - [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
-- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell)
+- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
 - [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell)
@@ -240,7 +240,7 @@
 
 ### Adwaita-based
 
-- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party icons theme, based on GNOME 3.32's Adwaita
+- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
 
 ### Material Icons
 
@@ -272,7 +272,7 @@
 
 ### Official Venues
 
-- [GNOME News Feed](https://www.gnome.org/news/) - Official news posts from GNOME.
+- [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
 - [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
@@ -310,7 +310,7 @@
 
 ### Examples
 
-- [Hello](https://github.com/chergert/hello) - Set of Hello World examples for GNOME in different languages.
+- [Hello](https://github.com/chergert/hello) - Set of Hello World examples for GNOME/GTK in different languages.
 
 ### Documentations
 
