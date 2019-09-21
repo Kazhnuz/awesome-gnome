@@ -30,7 +30,7 @@
   - [Windows](#windows)
   - [Docks and Panels](#docks-and-panels)
   - [Services Integration](#services-integration)
-- [Look-and-feel]
+- [Look and Feel](#look-and-feel)
   - [Themes](#themes)
   - [Icons](#icons)
   - [Cursors](#cursor)
