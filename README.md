@@ -58,8 +58,8 @@
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
-- [Fragments](https://github.com/FragmentsApp/Fragments/) - BitTorrent client
-- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application
+- [Fragments](https://github.com/FragmentsApp/Fragments/) - BitTorrent client.
+- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
 
@@ -69,7 +69,7 @@
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
-- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
+- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 - [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
@@ -162,7 +162,7 @@
 ### Desktop
 
 - [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - Access your places and files directly on your desktop.
-- [Notes](https://github.com/maoschanz/notes-extension-gnome) - Customizable sticky notes
+- [Notes](https://github.com/maoschanz/notes-extension-gnome) - Customizable sticky notes.
 
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
@@ -185,7 +185,7 @@
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
-- [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus; fully compatible with BitBar app for macOS. 
+- [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus.
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets.
 
 ### Windows
@@ -209,7 +209,7 @@
 
 > **Note:** GNOME doesn't officially support theming, and custom gtk stylesheet cannot be tested with every application ever. It means that some application might have problems with some of the theme here. You can change the GTK theme with command-line, dconf or Tweaks, but it also means that the pieces are you to keep if anything break :)
 
-- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
+- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes.
 
 #### Upstream-based
 
@@ -217,7 +217,7 @@
 
 - [Minwaita](https://github.com/godlyranchdressing/Minwaita) - Compact fork of Adwaita. (GTK, Shell)
 - [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) - Compact version of Adwaita, more faithful than minwaita but less compact. (GTK, Shell)
-- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu's official community-made style (GTK, Shell)
+- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu's official community-made style. (GTK, Shell)
 
 #### Look-a-like Themes
 
@@ -230,13 +230,13 @@
 
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive theme based on Material Design Guidelines. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme (GTK, Shell)
-- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh (GTK, Shell)
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme. (GTK, Shell)
+- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh. (GTK, Shell)
 
 #### Flat
 
 - [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
-- [Pop](https://github.com/pop-os/gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
+- [Pop](https://github.com/pop-os/gtk-theme/) - Official theme of Pop!\_OS by System76. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
 
@@ -251,7 +251,7 @@
 #### Upstream Style
 
 - [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-- [Pop!](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76..
+- [Pop!](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 #### Material Icons
 
@@ -274,7 +274,7 @@
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
- - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
+ - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling.
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
@@ -305,7 +305,7 @@
 
 ### Libraries
 
-- [libdazzle](https://git.gnome.org/browse/libdazzle) - Companion library to GObject and Gtk+, providing various features that the creators wish were in the underlying library but cannot add for various reasons.
+- [libdazzle](https://git.gnome.org/browse/libdazzle) - Companion library to GObject and Gtk+, providing various new features.
 
 ### Examples
 
