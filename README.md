@@ -35,7 +35,7 @@
   - [Icons](#icons)
   - [Cursors](#cursor)
 - [Community](#community)
-- [Developpers Ressources](#developpers-ressources)
+- [Developer Resources](#developer-resources)
   - [Libraries](#libraries)
   - [Examples](#examples)
   - [Documentation](#documentations)
@@ -207,7 +207,7 @@
 
 ### Themes
 
-> **Note:** GNOME doesn't officially support theming, and custom gtk stylesheet cannot be tested with every application ever. It means that some application might have problems with some of the theme here. You can change the GTK theme with command-line, dconf or Tweaks, but it also means that the pieces are you to keep if anything break :)
+> **Note:** GNOME doesn't officially support theming, and custom gtk stylesheet cannot be tested with every application ever. It means that some applications might have problems with some of the themes here. You can change the GTK theme with command-line, dconf or Tweaks, but it also means that the pieces are for you to keep if anything breaks :)
 
 - [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes.
 
