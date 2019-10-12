@@ -88,7 +88,7 @@
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
+- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio (currently in maintenance-mode, will be replaced by Shortwave).
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
