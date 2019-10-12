@@ -56,7 +56,7 @@
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
-- [Fragments](https://github.com/FragmentsApp/Fragments/) - BitTorrent client.
+- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client.
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
@@ -66,7 +66,7 @@
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - EBook Viewer.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-- [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
+- [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 - [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
@@ -109,7 +109,7 @@
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME3 settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor.
+- [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
