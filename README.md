@@ -131,10 +131,10 @@
 
 #### Design Tooling
 
-- [https://gitlab.gnome.org/World/design/icon-tool](Icon Preview) - Simple utility to preview icons.
-- [https://gitlab.gnome.org/World/design/palette](Palette) - Tool for viewing the GNOME colour palette.
-- [https://gitlab.gnome.org/World/design/contrast](Contrast) - Checks the contrast between two colors.
-- [https://gitlab.gnome.org/World/design/icon-library](Icon Library) - Find the right icon to use on your GNOME application.
+- [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - Simple utility to preview icons.
+- [Palette](https://gitlab.gnome.org/World/design/palette) - Tool for viewing the GNOME colour palette.
+- [Contrast](https://gitlab.gnome.org/World/design/contrast) - Checks the contrast between two colors.
+- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - Find the right icon to use on your GNOME application.
 
 ### Others
 
