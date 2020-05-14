@@ -69,7 +69,7 @@
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
-- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
+- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) - Distraction-free Markdown editor.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
