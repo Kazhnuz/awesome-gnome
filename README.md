@@ -75,6 +75,7 @@
 ### Productivity and Time
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
+- [Getting Things GNOME!](https://wiki.gnome.org/Apps/GTG) - Personal tasks and TODO-list items organizer.
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -91,6 +92,7 @@
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 - [Cozy](https://github.com/geigi/cozy) - Audiobook player.
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
+- [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
 
 ### Graphics
 
@@ -139,6 +141,7 @@
 ### Others
 
 - [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
+- [Boxes](https://wiki.gnome.org/Apps/Boxes) - View, access, and manage remote and virtual systems.
 
 ## Third-party Apps Plugins
 
