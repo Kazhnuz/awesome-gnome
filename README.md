@@ -11,7 +11,7 @@
 ## Contents  
 
 - [Applications](#applications)
-  - [Internet](#internet)
+  - [Internet and Networking](#internet-and-networking)
   - [Office](#office)
   - [Productivity and Time](#productivity-and-time)
   - [Multimedia](#multimedia)
