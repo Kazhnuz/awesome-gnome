@@ -226,7 +226,7 @@
 
 #### Flat
 
-- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
+- [Arc](https://github.com/jnsh/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
 - [Pop](https://github.com/pop-os/gtk-theme/) - Official theme of Pop!\_OS by System76. (GTK, Shell)
 - [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
 - [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
