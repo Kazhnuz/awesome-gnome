@@ -123,6 +123,7 @@
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
+- [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 
 ### Developpement and Design
 
