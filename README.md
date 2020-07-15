@@ -125,7 +125,7 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 
-### Developpement and Design
+### Development and Design
 
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor.
