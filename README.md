@@ -19,7 +19,7 @@
   - [Gaming](#gaming)
   - [System and Customization](#system-and-customization)
   - [Utilities](#utilities)
-  - [Developpement and Design](#developpement-and-design) 
+  - [Development and Design](#developpement-and-design) 
   - [Others](#others)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
