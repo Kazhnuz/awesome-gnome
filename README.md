@@ -161,7 +161,7 @@
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic][GNOME Core]
-- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
+- [Arc Menu](https://gitlab.com/arcmenu-team/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
 
 ### Applets
 
