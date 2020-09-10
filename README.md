@@ -130,6 +130,7 @@
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala.
+- [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML.
 
 #### Design Tooling
 
