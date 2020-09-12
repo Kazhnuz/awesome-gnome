@@ -49,7 +49,7 @@
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
-- [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
+- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
