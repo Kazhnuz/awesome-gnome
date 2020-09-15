@@ -55,7 +55,6 @@
 - [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-- [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client.
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
@@ -96,7 +95,7 @@
 ### Graphics
 
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-- [GColor 3](https://hjdskes.github.io/projects/gcolor3/) - Color Picker.
+- [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application.
 
@@ -141,7 +140,6 @@
 
 ### Others
 
-- [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
 - [Boxes](https://wiki.gnome.org/Apps/Boxes) - View, access, and manage remote and virtual systems.
 
 ## Third-party Apps Plugins
