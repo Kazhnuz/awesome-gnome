@@ -202,6 +202,7 @@
 - [Custom Hot Corners](https://github.com/janxyz/custom-hot-corners) - Customize hot corners on every screen and every corner.
 - [Multi Monitors Add-On](https://github.com/spin83/multi-monitors-add-on) - Adds a top panel and workspace overview to every monitor.
 - [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
+- [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Visual Changes
 - [Blyr](https://github.com/yozoon/gnome-shell-extension-blyr) - Apply a blur effect to the overview and top panel background.
