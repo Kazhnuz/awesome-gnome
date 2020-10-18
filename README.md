@@ -19,7 +19,7 @@
   - [Gaming](#gaming)
   - [System and Customization](#system-and-customization)
   - [Utilities](#utilities)
-  - [Development and Design](#developpement-and-design) 
+  - [Development and Design](#development-and-design) 
   - [Others](#others)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
@@ -28,6 +28,8 @@
   - [Applets](#applets)
   - [Windows](#windows)
   - [Docks and Panels](#docks-and-panels)
+  - [Usage Experience](#usage-experience)
+  - [Visual Changes](#visual-changes)
   - [Services Integration](#services-integration)
 - [Look and Feel](#look-and-feel)
   - [Themes](#themes)
@@ -145,15 +147,14 @@
 ## Third-party Apps Plugins
 
 - [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+- [Nautilus Terminal](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
 
 ### Complete overhaul
-
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
 ### Desktop
-
 - [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - Access your places and files directly on your desktop.
 - [Notes](https://github.com/maoschanz/notes-extension-gnome) - Customizable sticky notes.
 
@@ -163,7 +164,6 @@
 - [Arc Menu](https://gitlab.com/arcmenu-team/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
 
 ### Applets
-
 - [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
@@ -180,6 +180,8 @@
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus.
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets.
+- [Public IP](https://github.com/rostegg/public-ip-gnome-extension) - Shows your public IP address.
+- [LAN IP Address](https://github.com/Josholith/gnome-extension-lan-ip-address) - Shows your local IP address.
 
 ### Windows
 - [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen.
@@ -192,6 +194,21 @@
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
 - [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Modern dock that fuses the functionalities of workspaces and docks.
+
+### Audio
+- [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+- [Sound Input & Output Device Chooser](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
+
+### Usage Experience
+- [Custom Hot Corners](https://github.com/janxyz/custom-hot-corners) - Customize hot corners on every screen and every corner.
+- [Multi Monitors Add-On](https://github.com/spin83/multi-monitors-add-on) - Adds a top panel and workspace overview to every monitor.
+- [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
+- [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+
+### Visual Changes
+- [Blyr](https://github.com/yozoon/gnome-shell-extension-blyr) - Apply a blur effect to the overview and top panel background.
+- [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+- [Compiz alike windows effect](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
 
 ### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
