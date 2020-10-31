@@ -78,6 +78,7 @@
 ### Productivity and Time
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
+- [Solanum](https://gitlab.gnome.org/World/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -110,6 +111,7 @@
 
 ### System and Customization
 
+- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME3 settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
@@ -119,6 +121,7 @@
 
 ### Utilities
 
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
