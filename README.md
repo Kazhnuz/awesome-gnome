@@ -8,6 +8,8 @@
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools, or extensions that are maintained and distributed as part of the Classic mode.
 
+> Items marked with ![GNOME Circle][GNOME Circle] are applications championned by the [GNOME Circle](https://www.gnome.org/Circle/) iniative that aim to showcase the best apps and libraries for GNOME.
+
 ## Contents  
 
 - [Applications](#applications)
@@ -19,7 +21,7 @@
   - [Gaming](#gaming)
   - [System and Customization](#system-and-customization)
   - [Utilities](#utilities)
-  - [Development and Design](#development-and-design) 
+  - [Development and Design](#development-and-design)
   - [Others](#others)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
@@ -330,3 +332,4 @@
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
+[GNOME Circle]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png

@@ -18,11 +18,12 @@ Ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Please check that your contribution follows the following requirements :
   - The application has to follow enough of the GNOME HIG to work in a GNOME-based Desktop, by using an headerbar as the titlebar and looking clean in a vanilla GNOME desktop.
-  - Please avoid unmaintained items as they could break with time. 
+  - Please avoid unmaintained items as they could break with time.
   - Please avoid items that haven't had any stable release, aren't mature or aren't mature yet.
   - If the item you propose is a Core GNOME Project, please label it as such.
+  - If the item you propose is championned by the [GNOME Circle](https://www.gnome.org/Circle/) initiative, please also label it as such.
 - If the item you want to add doesn't follow the requirements for being on this list, but will follow them in the future (in a future version for the HIG, for instance), please submit an issue for it.
-  
+
 Thank you for your suggestions!
 
 
