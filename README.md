@@ -50,20 +50,21 @@
 ### Internet and Networking
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
+- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client. ![GNOME Circle][GNOME Circle]
+- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
-- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client.
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
 
+- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - EBook Viewer.
@@ -72,7 +73,6 @@
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
-- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) - Distraction-free Markdown editor.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
@@ -84,11 +84,11 @@
 
 ### Multimedia
 
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
