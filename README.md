@@ -125,6 +125,7 @@
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
+- [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 
 ### Development and Design
 
