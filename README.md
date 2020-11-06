@@ -8,6 +8,8 @@
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools, or extensions that are maintained and distributed as part of the Classic mode.
 
+> Items marked with ![GNOME Circle][GNOME Circle] are applications championned by the [GNOME Circle](https://www.gnome.org/Circle/) iniative that aim to showcase the best apps and libraries for GNOME.
+
 ## Contents  
 
 - [Applications](#applications)
@@ -19,7 +21,7 @@
   - [Gaming](#gaming)
   - [System and Customization](#system-and-customization)
   - [Utilities](#utilities)
-  - [Development and Design](#development-and-design) 
+  - [Development and Design](#development-and-design)
   - [Others](#others)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
@@ -48,20 +50,21 @@
 ### Internet and Networking
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
+- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client. ![GNOME Circle][GNOME Circle]
+- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
-- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client.
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
 
+- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - EBook Viewer.
@@ -70,23 +73,23 @@
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
-- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) - Distraction-free Markdown editor.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
+- [Solanum](https://gitlab.gnome.org/World/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Multimedia
 
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
@@ -108,6 +111,7 @@
 
 ### System and Customization
 
+- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME3 settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
@@ -117,6 +121,7 @@
 
 ### Utilities
 
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
@@ -331,3 +336,4 @@
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
+[GNOME Circle]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png
