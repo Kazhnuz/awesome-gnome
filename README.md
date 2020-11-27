@@ -61,6 +61,7 @@
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
+- [Castor](https://git.sr.ht/~julienxx/castor) - A graphical client for plain-text protocols.
 
 ### Office
 
