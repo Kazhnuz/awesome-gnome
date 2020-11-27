@@ -188,6 +188,9 @@
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets.
 - [Public IP](https://github.com/rostegg/public-ip-gnome-extension) - Shows your public IP address.
 - [LAN IP Address](https://github.com/Josholith/gnome-extension-lan-ip-address) - Shows your local IP address.
+- [Minimize to Tray](https://github.com/oae/gnome-shell-minimize-to-tray) - Minimize any app to tray.
+- [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+
 
 ### Windows
 - [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen.
