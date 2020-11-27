@@ -170,7 +170,7 @@
 - [Arc Menu](https://gitlab.com/arcmenu-team/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
 
 ### Applets
-- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
