@@ -16,11 +16,13 @@
   - [Internet and Networking](#internet-and-networking)
   - [Office](#office)
   - [Productivity and Time](#productivity-and-time)
+  - [Well Being](#well-being)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
   - [Gaming](#gaming)
   - [System and Customization](#system-and-customization)
   - [Utilities](#utilities)
+  - [Security and Privacy](#security-and-privacy)
   - [Development and Design](#development-and-design)
   - [Others](#others)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
@@ -80,7 +82,7 @@
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
-### Well-being
+### Well Being
 
 - [Blanket](https://flathub.org/apps/details/com.rafaelmardojai.Blanket) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
 - [Health](https://flathub.org/apps/details/dev.Cogitri.Health) - Health tracking.
