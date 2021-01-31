@@ -52,6 +52,8 @@
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client. ![GNOME Circle][GNOME Circle]
 - [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
+- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Get fonts from Google Font. ![GNOME Circle][GNOME Circle]
+- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application. ![GNOME Circle][GNOME Circle]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
@@ -59,7 +61,6 @@
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
-- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
 
@@ -79,9 +80,16 @@
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
+### Well-being
+
+- [Blanket](https://flathub.org/apps/details/com.rafaelmardojai.Blanket) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
+- [Health](https://flathub.org/apps/details/dev.Cogitri.Health) - Health tracking.
+
 ### Multimedia
 
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player. ![GNOME Circle][GNOME Circle]
+- [Video Trimer](https://gitlab.gnome.org/YaLTeR/video-trimmer) - Trim video quickly. ![GNOME Circle][GNOME Circle]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
@@ -89,16 +97,17 @@
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player.
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 - [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
 
 ### Graphics
 
+- [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail) - Simple & useful image compressor. ![GNOME Circle][GNOME Circle]
+- [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application. ![GNOME Circle][GNOME Circle]
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Compare image and video. ![GNOME Circle][GNOME Circle]
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
-- [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application.
 
 ### Gaming
 
@@ -108,6 +117,7 @@
 ### System and Customization
 
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
+- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
@@ -117,22 +127,29 @@
 
 ### Utilities
 
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
+- [Dialect](https://flathub.org/apps/details/com.github.gi_lom.dialect) - Translate text. ![GNOME Circle][GNOME Circle]
+- [Markets](https://flathub.org/apps/details/com.bitstower.Markets) - Stock, currency and cryptocurrency tracker. ![GNOME Circle][GNOME Circle]
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
-- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager.
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 
+### Security and Privacy
+
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
+- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - View and clean metadata in files. ![GNOME Circle][GNOME Circle]
+- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
+
 ### Development and Design
 
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
+- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications. ![GNOME Core][GNOME Core]
+- [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor.
-- [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML.
 
 #### Design Tooling
 
