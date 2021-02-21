@@ -8,7 +8,7 @@
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools, or extensions that are maintained and distributed as part of the Classic mode.
 
-> Items marked with ![GNOME Circle][GNOME Circle] are applications championned by the [GNOME Circle](https://www.gnome.org/Circle/) iniative that aim to showcase the best apps and libraries for GNOME.
+> Items marked with ![GNOME Circle][GNOME Circle] are applications championned by the [GNOME Circle](https://circle.gnome.org/) iniative that aim to showcase the best apps and libraries for GNOME.
 
 ## Contents  
 
