@@ -101,6 +101,7 @@
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 - [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
+- [Spot](https://github.com/xou816/spot) - Spotify Client.
 
 ### Graphics
 
