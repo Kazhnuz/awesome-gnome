@@ -139,6 +139,7 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
+- [Kooha](https://github.com/SeaDve/Kooha) - A simple screen recorder.
 
 ### Security and Privacy
 
