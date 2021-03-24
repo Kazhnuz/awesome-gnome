@@ -325,8 +325,10 @@
 
 - [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
 - [GNOME Developer Center](https://developer.gnome.org/) - Contains all the official GNOME documentations.
+- [GTK Documentation](https://docs.gtk.org) - Official GTK documentation.
 - [Valadoc](https://valadoc.org/) - Documentation about Vala.
 - [GJS Documentation](https://gjs-docs.gnome.org/) - Documentation for the JavaScript GTK bindings.
+- [GJS Guide](https://gjs.guide/) - Guide for GJS.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
