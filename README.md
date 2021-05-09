@@ -38,7 +38,7 @@
 - [Look and Feel](#look-and-feel)
   - [Themes](#themes)
   - [Icons](#icons)
-  - [Cursors](#cursor)
+  - [Cursors](#cursors)
 - [Community](#community)
 - [Developer Resources](#developer-resources)
   - [Libraries](#libraries)
