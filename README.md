@@ -293,7 +293,8 @@
 ### Official Venues
 
 - [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
-- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs
+- [This Week in GNOME](https://thisweek.gnome.org/) - Weekly news from project maintainers from the community.
+- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
