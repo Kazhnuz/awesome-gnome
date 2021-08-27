@@ -294,6 +294,7 @@
 
 - [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
 - [This Week in GNOME](https://thisweek.gnome.org/) - Weekly news from project maintainers from the community.
+- [Apps for GNOME](https://apps.gnome.org/)
 - [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
