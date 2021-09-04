@@ -127,6 +127,7 @@
 - [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
+- [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ### Utilities
 
