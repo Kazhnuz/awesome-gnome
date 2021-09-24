@@ -36,7 +36,6 @@
   - [Visual Changes](#visual-changes)
   - [Services Integration](#services-integration)
 - [Look and Feel](#look-and-feel)
-  - [Themes](#themes)
   - [Icons](#icons)
   - [Cursors](#cursors)
 - [Community](#community)
@@ -227,36 +226,6 @@
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ## Look and Feel
-
-### Themes
-
-> **Note:** GNOME doesn't officially support theming, and custom gtk stylesheet cannot be tested with every application ever. It means that some applications might have problems with some of the themes here. You can change the GTK theme with command-line, dconf or Tweaks, but it also means that the pieces are for you to keep if anything breaks :)
-
-- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes.
-
-#### Upstream-based
-
-> Themes that extend the upstream theming, or that are compliant to it.
-
-- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu's official community-made style. (GTK, Shell)
-- [Pop](https://github.com/pop-os/gtk-theme/) - Official theme of Pop!\_OS by System76. (GTK, Shell)
-
-#### Material
-
-- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme. (GTK, Shell)
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme. (GTK, Shell)
-- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh. (GTK, Shell)
-
-#### Flat
-
-- [Arc](https://github.com/jnsh/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
-- [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
-- [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
-
-#### Skeumorphic
-
-- [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
 ### Icons
 
