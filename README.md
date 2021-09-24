@@ -154,13 +154,16 @@
 - [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
 - [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
+- [Sysproof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - Profile an application or entire system.
+- [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
 
 #### Design Tooling
 
 - [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - Simple utility to preview icons.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Tool for viewing the GNOME colour palette.
-- [Contrast](https://gitlab.gnome.org/World/design/contrast) - Checks the contrast between two colors.
-- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - Find the right icon to use on your GNOME application.
+- [Contrast](https://gitlab.gnome.org/World/design/contrast) - Check the contrast between two colors.
+- [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - Symbolic icons for your apps.
+- [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - Symbolics Made Easy.
 
 ### Others
 
