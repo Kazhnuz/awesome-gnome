@@ -179,14 +179,11 @@
 ### Complete overhaul
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
-### Desktop
-- [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - Access your places and files directly on your desktop.
-- [Notes](https://github.com/maoschanz/notes-extension-gnome) - Customizable sticky notes.
-
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic][GNOME Core]
 - [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
+- [Fly-Pie](https://github.com/Schneegans/Fly-Pie) - Mouse-based menu.
 
 ### Applets
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
@@ -203,7 +200,6 @@
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 - [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
-
 ### Windows
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
@@ -215,13 +211,13 @@
 - [Sound Input & Output Device Chooser](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
 
 ### Usage Experience
-- [Custom Hot Corners](https://github.com/janxyz/custom-hot-corners) - Customize hot corners on every screen and every corner.
-- [Multi Monitors Add-On](https://github.com/spin83/multi-monitors-add-on) - Adds a top panel and workspace overview to every monitor.
+- [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
 - [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
 - [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
 
 ### Visual Changes
-- [Blyr](https://github.com/yozoon/gnome-shell-extension-blyr) - Apply a blur effect to the overview and top panel background.
+- [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 - [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 - [Compiz alike windows effect](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
 
