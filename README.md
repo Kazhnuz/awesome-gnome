@@ -140,6 +140,7 @@
 - [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Kooha](https://github.com/SeaDve/Kooha) - A simple screen recorder.
+- [Junction](https://junction.sonny.re/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 
 ### Security and Privacy
 
