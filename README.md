@@ -155,8 +155,9 @@
 - [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
 - [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
-- [Sysproof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - Profile an application or entire system.
+- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
+- [Workbench](https://github.com/sonnyp/Workbench) - Learn and prototype with GNOME technologies.
 
 #### Design Tooling
 
