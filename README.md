@@ -290,8 +290,8 @@
 ### Libraries
 
 - [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/) - Library that contain official GNOME patterns and widgets (GTK4)
-- [libdazzle](https://gitlab.gnome.org/GNOME/libdazzle) - Companion library to GObject and Gtk+, providing various new features. (GTK3)
 - [libhandy](https://gitlab.gnome.org/GNOME/libhandy) - Building blocks for modern adaptive GNOME apps (GTK3)
+- [Relm4](https://relm4.org/) - Building native applications with Rust and GTK4
 
 ### Examples
 
