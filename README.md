@@ -50,11 +50,11 @@
 
 ### Internet and Networking
 
-- [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
-- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client. ![GNOME Circle][GNOME Circle]
-- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
-- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Get fonts from Google Font. ![GNOME Circle][GNOME Circle]
-- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application. ![GNOME Circle][GNOME Circle]
+- [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
+- [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - BitTorrent client. ![GNOME Circle][GNOME Circle]
+- [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
+- [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Get fonts from Google Font. ![GNOME Circle][GNOME Circle]
+- [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Group your webapps into a single application. ![GNOME Circle][GNOME Circle]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
@@ -64,7 +64,7 @@
 
 ### Office
 
-- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
+- [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
@@ -75,21 +75,21 @@
 ### Productivity and Time
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
-- [Solanum](https://gitlab.gnome.org/World/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
+- [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Well Being
 
-- [Blanket](https://flathub.org/apps/details/com.rafaelmardojai.Blanket) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
-- [Health](https://flathub.org/apps/details/dev.Cogitri.Health) - Health tracking.
+- [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
+- [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking.
 
 ### Multimedia
 
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
-- [Cozy](https://github.com/geigi/cozy) - Audiobook player. ![GNOME Circle][GNOME Circle]
-- [Video Trimer](https://gitlab.gnome.org/YaLTeR/video-trimmer) - Trim video quickly. ![GNOME Circle][GNOME Circle]
+- [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
+- [Cozy](https://apps.gnome.org/app/com.github.geigi.cozy/) - Audiobook player. ![GNOME Circle][GNOME Circle]
+- [Video Trimer](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/) - Trim video quickly. ![GNOME Circle][GNOME Circle]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
@@ -105,8 +105,8 @@
 ### Graphics
 
 - [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail) - Simple & useful image compressor. ![GNOME Circle][GNOME Circle]
-- [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application. ![GNOME Circle][GNOME Circle]
-- [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Compare image and video. ![GNOME Circle][GNOME Circle]
+- [Drawing](https://apps.gnome.org/app/com.github.maoschanz.drawing/) - Responsive drawing application. ![GNOME Circle][GNOME Circle]
+- [Identity](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/) - Compare image and video. ![GNOME Circle][GNOME Circle]
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
@@ -118,8 +118,8 @@
 
 ### System and Customization
 
-- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
-- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
+- [Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
+- [Déjà Dup Backups](https://apps.gnome.org/app/org.gnome.DejaDup/) - Simple backups tool. ![GNOME Circle][GNOME Circle]
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
@@ -130,8 +130,8 @@
 
 ### Utilities
 
-- [Dialect](https://flathub.org/apps/details/com.github.gi_lom.dialect) - Translate text. ![GNOME Circle][GNOME Circle]
-- [Markets](https://flathub.org/apps/details/com.bitstower.Markets) - Stock, currency and cryptocurrency tracker. ![GNOME Circle][GNOME Circle]
+- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - Translate text. ![GNOME Circle][GNOME Circle]
+- [Markets](https://apps.gnome.org/app/com.bitstower.Markets/) - Keep track of your investments. ![GNOME Circle][GNOME Circle]
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
@@ -144,32 +144,32 @@
 
 ### Security and Privacy
 
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - View and clean metadata in files. ![GNOME Circle][GNOME Circle]
-- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
+- [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
+- [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/) - View and clean metadata in files. ![GNOME Circle][GNOME Circle]
+- [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 
 ### Development and Design
 
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications. ![GNOME Core][GNOME Core]
+- [GNOME Builder](https://apps.gnome.org/app/org.gnome.Builder/) - Official IDE for creating GNOME applications. ![GNOME Core][GNOME Core]
 - [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
-- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
+- [Webfont Kit Generator](https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
 - [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
-- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - Profile an application or entire system.
+- [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Learn and prototype with GNOME technologies. ![GNOME Circle][GNOME Circle]
+- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
-- [Workbench](https://github.com/sonnyp/Workbench) - Learn and prototype with GNOME technologies.
 
 #### Design Tooling
 
-- [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - Simple utility to preview icons.
-- [Palette](https://gitlab.gnome.org/World/design/palette) - Tool for viewing the GNOME colour palette.
-- [Contrast](https://gitlab.gnome.org/World/design/contrast) - Check the contrast between two colors.
+- [App Icon Preview](https://apps.gnome.org/app/org.gnome.design.AppIconPreview/) - Simple utility to preview icons.
+- [Palette](https://apps.gnome.org/app/org.gnome.design.Palette/) - Tool for viewing the GNOME colour palette.
+- [Contrast](https://apps.gnome.org/app/org.gnome.design.Contrast/) - Check the contrast between two colors.
 - [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - Symbolic icons for your apps.
 - [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - Symbolics Made Easy.
 
 ### Others
 
-- [Boxes](https://wiki.gnome.org/Apps/Boxes) - View, access, and manage remote and virtual systems.
+- [Boxes](https://apps.gnome.org/en/app/org.gnome.Boxes/) - View, access, and manage remote and virtual systems.
 
 ## Third-party Apps Plugins
 
