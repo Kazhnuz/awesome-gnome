@@ -88,7 +88,7 @@
 ### Well Being
 
 - [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
-- [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking.
+- [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking. ![GNOME Circle][GNOME Circle]
 
 ### Multimedia
 
