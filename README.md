@@ -203,11 +203,13 @@
 ### Docks and Panels
 - [Dash-to-Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A fully-featured dock.
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
+- [Dock-from-Dash](https://extensions.gnome.org/extension/4703/dock-from-dash/) - Simply transform your Dash into a Dock.
 
 ### Customization and Tweaks
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
 - [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
 - [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - Tweak your quick settings menu.
 
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
@@ -239,6 +241,8 @@
 - [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 - [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
 - [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
 ### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
