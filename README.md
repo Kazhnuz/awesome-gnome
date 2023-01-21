@@ -201,48 +201,44 @@
 ## Extensions
 
 ### Docks and Panels
-- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
+- [Dash-to-Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A fully-featured dock.
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic][GNOME Core]
-- [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
-- [Fly-Pie](https://github.com/Schneegans/Fly-Pie) - Mouse-based menu.
+- [Arc Menu](https://extensions.gnome.org/extension/3628/arcmenu/) - Windows7-like application menu inspired by the one in Zorin OS.
+- [Fly-Pie](https://extensions.gnome.org/extension/3433/fly-pie/) - Mouse-based menu.
 
 ### Applets
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
-- [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
-- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
-- [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
-- [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
+- [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - Simple clipboard applet.
+- [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer/) - Wallpaper slideshow applet.
+- [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) - Emoji picker applet.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
-- [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
-- [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
 ### Windows
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Audio
 - [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
-- [Sound Input & Output Device Chooser](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
 
 ### Usage Experience
 - [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
-- [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
 - [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
+- [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
 ### Visual Changes
 - [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 - [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
-- [Compiz alike windows effect](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
-- [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+- [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
+- [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
 
 ### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
