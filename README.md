@@ -53,8 +53,11 @@
 - [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 - [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - BitTorrent client. ![GNOME Circle][GNOME Circle]
 - [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
-- [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Get fonts from Google Font. ![GNOME Circle][GNOME Circle]
-- [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Group your webapps into a single application. ![GNOME Circle][GNOME Circle]
+- [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle][GNOME Circle]
+- [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle][GNOME Circle]
+- [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
+- [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
+- [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
@@ -65,6 +68,7 @@
 ### Office
 
 - [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
+- [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
@@ -76,6 +80,7 @@
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
 - [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
+- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -90,6 +95,10 @@
 - [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
 - [Cozy](https://apps.gnome.org/app/com.github.geigi.cozy/) - Audiobook player. ![GNOME Circle][GNOME Circle]
 - [Video Trimer](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/) - Trim video quickly. ![GNOME Circle][GNOME Circle]
+- [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - Plays music, and nothing else. ![GNOME Circle][GNOME Circle]
+- [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Identify any songs in seconds. ![GNOME Circle][GNOME Circle]
+- [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
+- [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/) - Play sounds from a soundboard. ![GNOME Circle][GNOME Circle]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
@@ -98,7 +107,6 @@
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
-- [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
 - [Spot](https://github.com/xou816/spot) - Spotify Client.
 - [Clapper](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
@@ -110,6 +118,10 @@
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
+
+### Scientific Tooling
+
+- [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
 
 ### Gaming
 
@@ -132,6 +144,12 @@
 
 - [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - Translate text. ![GNOME Circle][GNOME Circle]
 - [Markets](https://apps.gnome.org/app/com.bitstower.Markets/) - Keep track of your investments. ![GNOME Circle][GNOME Circle]
+- [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/) - Share your computer audio. ![GNOME Circle][GNOME Circle]
+- [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
+- [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
+- [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
+- [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
+- [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
@@ -139,14 +157,15 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
-- [Kooha](https://github.com/SeaDve/Kooha) - A simple screen recorder.
-- [Junction](https://junction.sonny.re/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 
 ### Security and Privacy
 
 - [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
 - [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/) - View and clean metadata in files. ![GNOME Circle][GNOME Circle]
 - [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
+- [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
+- [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
+- [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 
 ### Development and Design
@@ -156,6 +175,9 @@
 - [Webfont Kit Generator](https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
 - [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
 - [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Learn and prototype with GNOME technologies. ![GNOME Circle][GNOME Circle]
+- [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/) - Generate placeholder text. ![GNOME Circle][GNOME Circle]
+- [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/) - Test social media cards locally. ![GNOME Circle][GNOME Circle]
+- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
 
@@ -166,6 +188,7 @@
 - [Contrast](https://apps.gnome.org/app/org.gnome.design.Contrast/) - Check the contrast between two colors.
 - [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - Symbolic icons for your apps.
 - [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - Symbolics Made Easy.
+- [Emblem](https://apps.gnome.org/app/org.gnome.design.Emblem/) - Generate project avatars.
 
 ### Others
 
