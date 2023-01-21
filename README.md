@@ -27,11 +27,10 @@
   - [Others](#others)
 - [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
-  - [Complete Overhaul](#complete-overhaul)
+  - [Docks and Panels](#docks-and-panels)
   - [Menus](#menus)
   - [Applets](#applets)
   - [Windows](#windows)
-  - [Docks and Panels](#docks-and-panels)
   - [Usage Experience](#usage-experience)
   - [Visual Changes](#visual-changes)
   - [Services Integration](#services-integration)
@@ -201,7 +200,8 @@
 
 ## Extensions
 
-### Complete overhaul
+### Docks and Panels
+- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
 - [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
 ### Menus
@@ -227,9 +227,6 @@
 
 ### Windows
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Docks and Panels
-- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
 
 ### Audio
 - [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
