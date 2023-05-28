@@ -175,6 +175,7 @@
 - [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
+- [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 
 #### Design Tooling
 
