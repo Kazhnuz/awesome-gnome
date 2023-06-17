@@ -71,6 +71,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+- [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
 ### Productivity and Time
 
