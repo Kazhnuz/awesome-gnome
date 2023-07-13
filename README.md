@@ -139,6 +139,7 @@
 - [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
+- [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
 
 ### Utilities
 
