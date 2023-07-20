@@ -255,6 +255,7 @@
 
 #### Upstream Style
 
+- [MoreWaita](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 - [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
 - [Pop!](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
