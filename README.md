@@ -4,11 +4,11 @@
 
 > A curated list of _awesome_ apps, extensions, modules, themes and tools for the GNOME Desktop Environment.
 
-[GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unixes, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
+[GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unix-like operating systems, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools, or extensions that are maintained and distributed as part of the Classic mode.
 
-> Items marked with ![GNOME Circle][GNOME Circle] are applications championned by the [GNOME Circle](https://circle.gnome.org/) iniative that aim to showcase the best apps and libraries for GNOME.
+> Items marked with ![GNOME Circle][GNOME Circle] are applications championed by the [GNOME Circle](https://circle.gnome.org/) initiative that aims to showcase the best apps and libraries for GNOME.
 
 ## Contents  
 
