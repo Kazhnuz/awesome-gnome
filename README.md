@@ -83,6 +83,7 @@
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 - [Teleprompter](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
+- [Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 
 ### Well Being
 
