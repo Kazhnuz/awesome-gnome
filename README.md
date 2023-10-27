@@ -182,6 +182,7 @@
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 - [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
+- [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 #### Design Tooling
 
