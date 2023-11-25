@@ -108,6 +108,7 @@
 - [Spot](https://github.com/xou816/spot) - Spotify Client.
 - [Clapper](https://github.com/Rafostar/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
+- [Decibels](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 
 ### Graphics
 
