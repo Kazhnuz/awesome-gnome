@@ -119,6 +119,7 @@
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color picker, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
+- [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
 
 ### Scientific Tooling
 
