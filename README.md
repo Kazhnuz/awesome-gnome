@@ -55,7 +55,7 @@
 - [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle][GNOME Circle]
 - [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle][GNOME Circle]
 - [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
-- [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
+- [Warp](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
 - [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
