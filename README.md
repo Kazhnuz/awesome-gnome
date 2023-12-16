@@ -62,6 +62,7 @@
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+- [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client
 
 ### Office
 
