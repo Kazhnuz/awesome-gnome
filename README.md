@@ -111,6 +111,7 @@
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Decibels](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 - [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+- [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 
 ### Graphics
 
