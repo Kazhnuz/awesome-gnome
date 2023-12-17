@@ -156,8 +156,8 @@
 - [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
 - [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
 - [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
-- [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
 - [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
+- [Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
