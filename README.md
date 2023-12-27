@@ -152,6 +152,7 @@
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
+- [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
 
 ### Utilities
 
