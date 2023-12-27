@@ -169,6 +169,7 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
+- [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
 
 ### Security and Privacy
 
