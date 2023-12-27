@@ -152,6 +152,7 @@
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
+- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
 
 ### Utilities
 
