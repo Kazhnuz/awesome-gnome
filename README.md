@@ -153,6 +153,7 @@
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
 - [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
+- [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
 
 ### Utilities
 
