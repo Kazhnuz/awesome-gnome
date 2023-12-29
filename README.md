@@ -59,7 +59,6 @@
 - [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-- [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 - [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
@@ -73,7 +72,6 @@
 - [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
@@ -135,7 +133,6 @@
 ### Gaming
 
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 
 ### System and Customization
@@ -182,7 +179,6 @@
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 
 ### Development and Design
 
