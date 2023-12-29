@@ -154,6 +154,7 @@
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
 - [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+- [Pods](https://github.com/marhkb/pods) - Podman containers manager.
 
 ### Utilities
 
