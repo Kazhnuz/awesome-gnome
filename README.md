@@ -37,6 +37,7 @@
 - [Look and Feel](#look-and-feel)
   - [Icons](#icons)
   - [Cursors](#cursors)
+  - [Themes for non-GTK apps](#themes-for-non-gtk-apps)
 - [Community](#community)
 - [Developer Resources](#developer-resources)
   - [Libraries](#libraries)
