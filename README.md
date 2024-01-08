@@ -301,6 +301,7 @@
 
 ### Themes for non-GTK apps
 
+- [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 - [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 - [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
