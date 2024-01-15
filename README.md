@@ -130,6 +130,8 @@
 ### Scientific Tooling
 
 - [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
+- [Graphs](https://apps.gnome.org/Graphs/) - Plot and manipulate data. ![GNOME Circle][GNOME Circle]
+
 
 ### Gaming
 
