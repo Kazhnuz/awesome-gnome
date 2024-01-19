@@ -75,6 +75,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+- [RNote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Productivity and Time
 
