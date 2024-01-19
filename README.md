@@ -180,6 +180,7 @@
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
+- [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps.
 
 ### Development and Design
 
