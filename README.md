@@ -37,6 +37,7 @@
 - [Look and Feel](#look-and-feel)
   - [Icons](#icons)
   - [Cursors](#cursors)
+  - [Themes for non-GTK apps](#themes-for-non-gtk-apps)
 - [Community](#community)
 - [Developer Resources](#developer-resources)
   - [Libraries](#libraries)
@@ -59,9 +60,11 @@
 - [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-- [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+- [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
+- [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
+- [Dino](https://dino.im/) - XMPP Client.
 
 ### Office
 
@@ -70,20 +73,21 @@
 - [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+- [RNote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Productivity and Time
 
 - [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
-- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
+- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 - [Teleprompter](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
 - [Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
+- [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
 
 ### Well Being
 
@@ -109,6 +113,10 @@
 - [Clapper](https://github.com/Rafostar/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Decibels](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
+- [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+- [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
+- [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
+- [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere. 
 
 ### Graphics
 
@@ -124,11 +132,12 @@
 ### Scientific Tooling
 
 - [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
+- [Graphs](https://apps.gnome.org/Graphs/) - Plot and manipulate data. ![GNOME Circle][GNOME Circle]
+
 
 ### Gaming
 
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 
 ### System and Customization
@@ -145,6 +154,9 @@
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
+- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
+- [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+- [Pods](https://github.com/marhkb/pods) - Podman containers manager.
 - [Prompt](https://gitlab.gnome.org/chergert/prompt) - Terminal with first-class support for containers.
 
 ### Utilities
@@ -155,14 +167,16 @@
 - [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
 - [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
 - [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
-- [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
 - [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
+- [Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
+- [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+- [Moussam](https://github.com/amit9838/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 
 ### Security and Privacy
 
@@ -172,7 +186,7 @@
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
+- [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps.
 
 ### Development and Design
 
@@ -205,7 +219,6 @@
 
 ## Third-party Apps Plugins
 
-- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 - [Nautilus Terminal](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
@@ -291,6 +304,14 @@
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling.
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+
+### Themes for non-GTK apps
+
+- [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
+- [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+- [Thunderbird GNOME Theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+- [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community
 
