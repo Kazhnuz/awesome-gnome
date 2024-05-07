@@ -128,6 +128,7 @@
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 - [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
+- [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen.
 
 ### Scientific Tooling
 
