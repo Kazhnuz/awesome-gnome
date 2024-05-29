@@ -81,12 +81,12 @@
 
 - [Solanum](https://apps.gnome.org/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 - [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
+- [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 - [GTimeLog](https://flathub.org/apps/org.gtimelog.GTimeLog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org) - Simple pomodoro timer.
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 - [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
-- [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
 
 ### Well Being
@@ -97,11 +97,12 @@
 ### Multimedia
 
 - [Shortwave](https://apps.gnome.org/Shortwave) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
-- [Cozy](https://flathub.org/apps/com.github.geigi.cozy) - Audiobook player.
 - [Video Trimer](https://apps.gnome.org/VideoTrimmer) - Trim video quickly. ![GNOME Circle][GNOME Circle]
 - [Amberol](https://apps.gnome.org/Amberol) - Plays music, and nothing else. ![GNOME Circle][GNOME Circle]
 - [Mousai](https://apps.gnome.org/Mousai) - Identify any songs in seconds. ![GNOME Circle][GNOME Circle]
 - [Podcasts](https://apps.gnome.org/Podcasts) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
+- [Decibels](https://apps.gnome.org/Decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
+- [Cozy](https://flathub.org/apps/com.github.geigi.cozy) - Audiobook player.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) - Simple frontend for mpv.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
@@ -111,7 +112,6 @@
 - [Spot](https://flathub.org/apps/dev.alextren.Spot) - Spotify Client.
 - [Clapper](https://rafostar.github.io/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
-- [Decibels](https://apps.gnome.org/Decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 - [Aviator](https://flathub.org/apps/net.natesales.Aviator) - Utility for encoding with SVT-AV1 & Opus.
 - [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 - [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
@@ -120,19 +120,19 @@
 ### Graphics
 
 - [Curtail](https://apps.gnome.org/en/Curtail) - Simple & useful image compressor. ![GNOME Circle][GNOME Circle]
-- [Drawing](https://flathub.org/apps/com.github.maoschanz.drawing) - Responsive drawing application.
 - [Identity](https://apps.gnome.org/Identity) - Compare image and video. ![GNOME Circle][GNOME Circle]
+- [Switcheroo](https://apps.gnome.org/Converter) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
+- [Drawing](https://flathub.org/apps/com.github.maoschanz.drawing) - Responsive drawing application.
 - [Coulr](https://flathub.org/apps/com.github.huluti.Coulr) - Convert between RGB and hexadecimal codes for colours.
 - [Color Picker](https://flathub.org/apps/nl.hjdskes.gcolor3) - Color picker, working on both X11 and Wayland.
 - [GThumb](https://gitlab.gnome.org/GNOME/gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw](https://flathub.org/apps/io.github.nokse22.asciidraw) - Draw graphs and more using only characters.
-- [Switcheroo](https://apps.gnome.org/Converter) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
 - [Mingle](https://flathub.org/apps/io.github.halfmexican.Mingle) - Application to combine emojis using Google's Emoji Kitchen.
 
 ### Scientific Tooling
 
-- [Plots](https://flathub.org/apps/com.github.alexhuntley.Plots) - Simple graph plotting.
 - [Graphs](https://apps.gnome.org/Graphs) - Plot and manipulate data. ![GNOME Circle][GNOME Circle]
+- [Plots](https://flathub.org/apps/com.github.alexhuntley.Plots) - Simple graph plotting.
 
 ### Gaming
 
@@ -166,13 +166,13 @@
 - [Boatswain](https://apps.gnome.org/Boatswain) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
 - [Decoder](https://apps.gnome.org/Decoder) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
 - [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
+- [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 - [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Simple and fast tool for removing duplicate files.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes) - Cooking application.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
-- [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 - [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 
@@ -196,13 +196,13 @@
 - [Lorem](https://apps.gnome.org/Lorem) - Generate placeholder text. ![GNOME Circle][GNOME Circle]
 - [Share Preview](https://apps.gnome.org/SharePreview) - Test social media cards locally. ![GNOME Circle][GNOME Circle]
 - [Text Pieces](https://apps.gnome.org/TextPieces) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
+- [Forge Sparks](https://flathub.org/apps/com.mardojai.ForgeSparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
+- [Biblioteca](https://apps.gnome.org/en/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle][GNOME Circle]
+- [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX symbols by sketching. ![GNOME Circle][GNOME Circle]
 - [Sysprof](https://apps.gnome.org/Sysprof) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/Devhelp) - Developer tool for browsing and searching API documentation.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
-- [Forge Sparks](https://flathub.org/apps/com.mardojai.ForgeSparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
-- [Biblioteca](https://apps.gnome.org/en/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle][GNOME Circle]
-- [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX symbols by sketching. ![GNOME Circle][GNOME Circle]
 
 #### Design Tooling
 
