@@ -58,9 +58,7 @@
 - [Polari](https://apps.gnome.org/Polari) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
 - [Warp](https://apps.gnome.org/Warp) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
 - [Wike](https://apps.gnome.org/Wike) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
-- [Geary](https://gitlab.gnome.org/GNOME/geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-- [Haguichi](https://www.haguichi.net) - Graphical frontend for Hamachi.
 - [Parabolic](https://flathub.org/apps/org.nickvision.tubeconverter) - `yt-dlp` graphical fronted.
 - [Geopard](https://ranfdev.com/projects/geopard) - Colorful Gemini client.
 - [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
@@ -71,9 +69,7 @@
 - [Apostrophe](https://apps.gnome.org/Apostrophe) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 - [Citations](https://apps.gnome.org/Citations) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
-- [Paperwork](https://flathub.org/apps/work.openpaper.Paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://flathub.org/apps/com.github.johnfactotum.Foliate) - Simple and modern eBook reader.
-- [Marker](https://flathub.org/apps/com.github.fabiocolacio.marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor) - PDF metadata editor.
 - [RNote](https://flathub.org/apps/com.github.flxzt.rnote) - Sketch and take handwritten notes.
 
@@ -83,8 +79,6 @@
 - [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
 - [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
-- [GTimeLog](https://flathub.org/apps/org.gtimelog.GTimeLog) - Simple app for keeping track of time.
-- [Gnome Pomodoro](http://gnomepomodoro.org) - Simple pomodoro timer.
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 - [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 - [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
@@ -103,12 +97,9 @@
 - [Podcasts](https://apps.gnome.org/Podcasts) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
 - [Decibels](https://apps.gnome.org/Decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 - [Cozy](https://flathub.org/apps/com.github.geigi.cozy) - Audiobook player.
-- [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) - Simple frontend for mpv.
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 - [Parlatype](http://gkarsay.github.io/parlatype) - Audio player specialized for transcription.
 - [Easy Effects](https://flathub.org/apps/com.github.wwmm.easyeffects) - Audio effects for PipeWire applications .
-- [Pitivi](http://www.pitivi.org) - Beautiful and powerful video editor.
 - [Spot](https://flathub.org/apps/dev.alextren.Spot) - Spotify Client.
 - [Clapper](https://rafostar.github.io/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
