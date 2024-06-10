@@ -139,6 +139,10 @@
 
 - [Lutris](https://flathub.org/apps/net.lutris.Lutris) - Open Source gaming platform.
 - [Cartridges](https://apps.gnome.org/Cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
+- [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games.
+- [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files.
+- [Mahjongg](https://flathub.org/apps/org.gnome.Mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg.
+- [Ultimate Tic Tac Toe](https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI.
 
 ### System and Customization
 
