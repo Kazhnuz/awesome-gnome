@@ -58,9 +58,7 @@
 - [Polari](https://apps.gnome.org/Polari) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
 - [Warp](https://apps.gnome.org/Warp) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
 - [Wike](https://apps.gnome.org/Wike) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
-- [Geary](https://gitlab.gnome.org/GNOME/geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-- [Haguichi](https://www.haguichi.net) - Graphical frontend for Hamachi.
 - [Parabolic](https://flathub.org/apps/org.nickvision.tubeconverter) - `yt-dlp` graphical fronted.
 - [Geopard](https://ranfdev.com/projects/geopard) - Colorful Gemini client.
 - [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
@@ -72,9 +70,7 @@
 - [Apostrophe](https://apps.gnome.org/Apostrophe) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
 - [Citations](https://apps.gnome.org/Citations) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
 - [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
-- [Paperwork](https://flathub.org/apps/work.openpaper.Paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate](https://flathub.org/apps/com.github.johnfactotum.Foliate) - Simple and modern eBook reader.
-- [Marker](https://flathub.org/apps/com.github.fabiocolacio.marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor) - PDF metadata editor.
 - [RNote](https://flathub.org/apps/com.github.flxzt.rnote) - Sketch and take handwritten notes.
 - [Morphosis](https://flathub.org/apps/garden.jamie.Morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats.
@@ -85,8 +81,6 @@
 - [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
 - [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
-- [GTimeLog](https://flathub.org/apps/org.gtimelog.GTimeLog) - Simple app for keeping track of time.
-- [Gnome Pomodoro](http://gnomepomodoro.org) - Simple pomodoro timer.
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 - [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 - [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
@@ -105,12 +99,9 @@
 - [Podcasts](https://apps.gnome.org/Podcasts) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
 - [Decibels](https://apps.gnome.org/Decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 - [Cozy](https://flathub.org/apps/com.github.geigi.cozy) - Audiobook player.
-- [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) - Simple frontend for mpv.
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 - [Parlatype](http://gkarsay.github.io/parlatype) - Audio player specialized for transcription.
 - [Easy Effects](https://flathub.org/apps/com.github.wwmm.easyeffects) - Audio effects for PipeWire applications .
-- [Pitivi](http://www.pitivi.org) - Beautiful and powerful video editor.
 - [Spot](https://flathub.org/apps/dev.alextren.Spot) - Spotify Client.
 - [Clapper](https://rafostar.github.io/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
@@ -124,10 +115,7 @@
 - [Curtail](https://apps.gnome.org/en/Curtail) - Simple & useful image compressor. ![GNOME Circle][GNOME Circle]
 - [Identity](https://apps.gnome.org/Identity) - Compare image and video. ![GNOME Circle][GNOME Circle]
 - [Switcheroo](https://apps.gnome.org/Converter) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
-- [Drawing](https://flathub.org/apps/com.github.maoschanz.drawing) - Responsive drawing application.
 - [Coulr](https://flathub.org/apps/com.github.huluti.Coulr) - Convert between RGB and hexadecimal codes for colours.
-- [Color Picker](https://flathub.org/apps/nl.hjdskes.gcolor3) - Color picker, working on both X11 and Wayland.
-- [GThumb](https://gitlab.gnome.org/GNOME/gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw](https://flathub.org/apps/io.github.nokse22.asciidraw) - Draw graphs and more using only characters.
 - [Mingle](https://flathub.org/apps/io.github.halfmexican.Mingle) - Application to combine emojis using Google's Emoji Kitchen.
 
@@ -138,7 +126,6 @@
 
 ### Gaming
 
-- [Lutris](https://flathub.org/apps/net.lutris.Lutris) - Open Source gaming platform.
 - [Cartridges](https://apps.gnome.org/Cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 - [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games.
 - [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files.
@@ -150,10 +137,7 @@
 - [Pika Backup](https://apps.gnome.org/PikaBackup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 - [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
 - [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Graphical interface for advanced GNOME settings.
-- [Tilix](https://gnunn1.github.io/tilix-web) - Tiling terminal emulator.
-- [Menulibre](https://smdavis.us/projects/menulibre) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 - [HydraPaper](https://hydrapaper.gabmus.org) - Set a different background for each monitor.
-- [Dynamic Wallpaper Editor](https://flathub.org/apps/com.github.maoschanz.DynamicWallpaperEditor) - Utility for editing GNOME's XML wallpapers
 - [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 - [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
 - [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
@@ -174,11 +158,6 @@
 - [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 - [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 - [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
-- [Catfish](https://launchpad.net/catfish-search) - Simple search application.
-- [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Simple and fast tool for removing duplicate files.
-- [Recipes](https://gitlab.gnome.org/GNOME/recipes) - Cooking application.
-- [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 - [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
