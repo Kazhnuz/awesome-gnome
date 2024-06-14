@@ -164,6 +164,7 @@
 - [Pods](https://flathub.org/apps/com.github.marhkb.Pods) - Podman containers manager.
 - [Ptyxis](https://flathub.org/apps/app.devsuite.Ptyxis) - Terminal with first-class support for containers.
 - [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
+- [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
 ### Utilities
 
