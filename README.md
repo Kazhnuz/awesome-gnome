@@ -144,6 +144,7 @@
 - [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files.
 - [Mahjongg](https://flathub.org/apps/org.gnome.Mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg.
 - [Ultimate Tic Tac Toe](https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI.
+- [Libellus](https://flathub.org/apps/de.hummdudel.Libellus) - Tab-based wiki/Lexicon for DnD 5th edition.
 
 ### System and Customization
 
