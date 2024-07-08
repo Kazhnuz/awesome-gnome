@@ -33,7 +33,6 @@
   - [Applets](#applets)
   - [Windows](#windows)
   - [Visual Changes](#visual-changes)
-  - [Services Integration](#services-integration)
 - [Look and Feel](#look-and-feel)
   - [Icons](#icons)
   - [Cursors](#cursors)
@@ -212,7 +211,6 @@
 
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection) - Customize GNOME Shell.
 - [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended) - Customize hot corners.
-- [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 - [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker) - Tweak your quick settings menu.
 
 ### Menus
@@ -224,39 +222,27 @@
 
 ### Applets
 
-- [RunCat](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+- [RunCat](https://extensions.gnome.org/extension/2986/runcat/) — The cat tells you the CPU usage by running speed.
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu) - Status menu to show your removable drives.
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather) - Weather applet.
+- [OpenWeather](https://extensions.gnome.org/extension/6655/openweather/) - Weather applet.
 - [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator) - Simple clipboard applet.
-- [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer) - Wallpaper slideshow applet.
-- [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector) - Emoji picker applet.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt) - Interface for todo.txt.
-- [Time ++](https://extensions.gnome.org/extension/1238/time) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect) - KDE Connect implementation.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support) - Appindicator systray.
 
 ### Windows
 
-- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-- [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
-
-### Audio
-
-- [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+- [PaperWM](https://extensions.gnome.org/extension/6099/paperwm/) - Tiled scrollable window management.
+- [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Advanced fullscreen app switcher.
 
 ### Visual Changes
 
-- [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
-- [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+- [Blur-my-shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Apply a blur effect to the overview and top panel background.
 - [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect) - Adds wobbly effects to windows.
 - [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
-- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Open/Close your windows with style.
-
-### Services integration
-
-- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+- [Desktop Cube](https://extensions.gnome.org/extension/4648/desktop-cube/) - A Desktop Cube for GNOME Shell
+- [Burn My Windows](https://extensions.gnome.org/extension/4679/burn-my-windows/) - Open/Close your windows with style.
 
 ## Look and Feel
 
