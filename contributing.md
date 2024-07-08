@@ -18,6 +18,7 @@ Ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Please check that your contribution follows the following requirements :
   - The application has to follow enough of the GNOME HIG to work in a GNOME-based Desktop, by using an headerbar as the titlebar and looking clean in a vanilla GNOME desktop.
+  - The application has to use GTK4 and LibAdwaita
   - Please avoid unmaintained items as they could break with time.
   - Please avoid items that haven't had any stable release, aren't mature or aren't mature yet.
   - If the item you propose is a Core GNOME Project, please label it as such.
