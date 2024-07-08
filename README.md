@@ -90,6 +90,7 @@
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 - [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 - [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
+- [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
 
 ### Well Being
 
