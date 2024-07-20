@@ -78,7 +78,6 @@
 - [Paper Clip](https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor) - PDF metadata editor.
 - [RNote](https://flathub.org/apps/com.github.flxzt.rnote) - Sketch and take handwritten notes.
 - [Morphosis](https://flathub.org/apps/garden.jamie.Morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats.
-- [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
 
 ### Productivity and Time
 
@@ -211,7 +210,8 @@
 - [DevHelp](https://apps.gnome.org/Devhelp) - Developer tool for browsing and searching API documentation.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
-- [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub. 
+- [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub.
+- [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
 
 #### Design Tooling
 
