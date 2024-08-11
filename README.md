@@ -58,6 +58,7 @@
 - [Warp](https://apps.gnome.org/Warp) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
 - [Wike](https://apps.gnome.org/Wike) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
+- [Haguichi](https://www.haguichi.net) - Graphical frontend for Hamachi.
 - [Parabolic](https://flathub.org/apps/org.nickvision.tubeconverter) - `yt-dlp` graphical fronted.
 - [Geopard](https://ranfdev.com/projects/geopard) - Colorful Gemini client.
 - [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
