@@ -171,6 +171,7 @@
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 - [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
+- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Ping websites.
 
 ### Security and Privacy
 
