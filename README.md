@@ -65,7 +65,8 @@
 - [Dino](https://dino.im) - XMPP Client.
 - [Dissent](https://flathub.org/apps/so.libdb.dissent) - Third-party Discord client prioritasing speed over feature completeness (with user theming through CSS).
 - [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
-- [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - Youtube Client
+- [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client.
+- [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values.
 
 ### Office
 
