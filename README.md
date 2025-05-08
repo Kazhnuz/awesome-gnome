@@ -81,7 +81,7 @@
 ### Productivity and Time
 
 - [Solanum](https://apps.gnome.org/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
-- [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
+- [Khronos](https://flathub.org/apps/io.github.lainsce.Khronos) - Log the time it took to do tasks.
 - [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
