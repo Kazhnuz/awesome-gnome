@@ -25,7 +25,6 @@
   - [Security and Privacy](#security-and-privacy)
   - [Development and Design](#development-and-design)
   - [Others](#others)
-- [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
   - [Docks and Panels](#docks-and-panels)
   - [Customization and Tweaks](#customization-and-tweaks)
@@ -220,10 +219,6 @@
 ### Others
 
 - [Boxes](https://apps.gnome.org/Boxes) - View, access, and manage remote and virtual systems.
-
-## Third-party Apps Plugins
-
-- [Nautilus Terminal](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
 
