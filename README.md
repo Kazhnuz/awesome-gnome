@@ -335,6 +335,11 @@
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
 
+### Other lists
+
+- [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
+- [Awesome-GTK](https://github.com/valpackett/awesome-gtk) - Collections of awesome native open-source GTK (4 and 3) applications.
+
 ## Developer Resources
 
 ### Libraries
