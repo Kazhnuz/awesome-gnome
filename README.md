@@ -67,6 +67,7 @@
 - [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
 - [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values.
+- [Turn On](https://codeberg.org/swsnr/turnon) - Utility to send Wake On LAN (WoL) magic packets to devices in a network.
 
 ### Office
 
