@@ -265,6 +265,7 @@
 - [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
 - [Desktop Cube](https://extensions.gnome.org/extension/4648/desktop-cube/) - A Desktop Cube for GNOME Shell
 - [Burn My Windows](https://extensions.gnome.org/extension/4679/burn-my-windows/) - Open/Close your windows with style.
+- [p7 Borders](https://extensions.gnome.org/extension/9064/p7-window-borders/) - Add border highlights in the compositor.
 
 ## Look and Feel
 
