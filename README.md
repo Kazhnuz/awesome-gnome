@@ -257,6 +257,7 @@
 
 - [PaperWM](https://extensions.gnome.org/extension/6099/paperwm/) - Tiled scrollable window management.
 - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Advanced fullscreen app switcher.
+- [p7 Commands](https://extensions.gnome.org/extension/9065/p7-commands/) - Window auto resize with mouse, optimal size shortcuts, etc
 
 ### Visual Changes
 
