@@ -185,6 +185,7 @@
 - [Collisions](https://apps.gnome.org/Collision) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/Raider) - Securely delete your files. ![GNOME Circle][GNOME Circle]
 - [Key Rack](https://flathub.org/apps/app.drey.KeyRack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps.
+- [Marshall](https://github.com/bad-antics/marshall) - Privacy-focused GTK4/WebKit2GTK browser with built-in ad blocking, no telemetry, and minimal fingerprinting.
 
 ### Development and Design
 
