@@ -161,6 +161,7 @@
 - [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences. ![GNOME Circle][GNOME Circle]
 - [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
 - [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle][GNOME Circle]
+- [FrostByte](https://github.com/VladislavTsytrikov/frostbyte) - Tool to auto-freeze idle applications and reclaim physical RAM on GNOME/Wayland.
 
 ### Utilities
 
