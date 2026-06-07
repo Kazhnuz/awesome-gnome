@@ -87,6 +87,7 @@
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 - [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 - [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
+- [Reinschrift](https://flathub.org/apps/me.dumke.Reinschrift) - Todo manager that stores all tasks in a single Markdown file, with WebDAV/Nextcloud sync.
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 
