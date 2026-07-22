@@ -185,6 +185,7 @@
 - [Collisions](https://apps.gnome.org/Collision) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/Raider) - Securely delete your files. ![GNOME Circle][GNOME Circle]
 - [Key Rack](https://flathub.org/apps/app.drey.KeyRack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps.
+- [Secrets Dispatcher](https://github.com/nikicat/secrets-dispatcher) - Proxy in front of gnome-keyring that adds per-application approval and an audit log for Secret Service access, and gates GPG commit signing.
 
 ### Development and Design
 
