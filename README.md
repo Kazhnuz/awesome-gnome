@@ -161,6 +161,7 @@
 - [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences. ![GNOME Circle][GNOME Circle]
 - [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
 - [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle][GNOME Circle]
+- [Flexa](https://github.com/EuCaue/Flexa) - Convert cursor themes between Windows and Linux formats.
 
 ### Utilities
 
@@ -252,6 +253,7 @@
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt) - Interface for todo.txt.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect) - KDE Connect implementation.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support) - Appindicator systray.
+- [Quick Lofi](https://extensions.gnome.org/extension/6904/quick-lofi/) - Play lofi music and other sounds, locally or online, with just a click from the top panel.
 
 ### Windows
 
