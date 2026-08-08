@@ -301,6 +301,10 @@
 - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
+#### Theming tools
+
+- [ThemeForge](https://github.com/gusinfosec/themeforge) - One-click GNOME theming: pick a curated Look (coordinated GTK theme, icons and cursor), preview it live, apply without root or system writes.
+
 ### Themes for non-GTK apps
 
 - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
