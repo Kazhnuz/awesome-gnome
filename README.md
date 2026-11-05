@@ -252,6 +252,7 @@
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt) - Interface for todo.txt.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect) - KDE Connect implementation.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support) - Appindicator systray.
+- [Galaxy Buds Switcher](https://github.com/pulkitmundra/galaxy-buds-ubuntu) - Quick Settings toggle, battery percentage indicator, A2DP/HFP profile switcher, and Android call handoff for Samsung Galaxy Buds.
 
 ### Windows
 
