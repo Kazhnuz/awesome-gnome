@@ -248,6 +248,7 @@
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu) - Status menu to show your removable drives.
 - [OpenWeather](https://extensions.gnome.org/extension/6655/openweather/) - Weather applet.
+- [GNOME Stocks](https://github.com/perpuchaty/GNOME-Stocks) - Track stocks, cryptocurrencies, and exchange rates from the top bar.
 - [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator) - Simple clipboard applet.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt) - Interface for todo.txt.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect) - KDE Connect implementation.
