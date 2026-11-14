@@ -234,6 +234,7 @@
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection) - Customize GNOME Shell.
 - [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended) - Customize hot corners.
 - [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker) - Tweak your quick settings menu.
+- [Accent Hold](https://extensions.gnome.org/extension/10265/accent-hold/) - Hold a letter to pick its accented variant, like on macOS.
 
 ### Menus
 
