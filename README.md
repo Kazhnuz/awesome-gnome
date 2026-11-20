@@ -257,6 +257,7 @@
 
 - [PaperWM](https://extensions.gnome.org/extension/6099/paperwm/) - Tiled scrollable window management.
 - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Advanced fullscreen app switcher.
+- [Tiling Shell](https://github.com/domferr/tilingshell) - Extend GNOME Shell with advanced tiling window management.
 
 ### Visual Changes
 
